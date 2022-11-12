@@ -2,8 +2,9 @@ import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.offsetbox import OffsetImage,AnnotationBbox
 import datetime
+import cairosvg
 
-flagDir = "/home/country-flag-icons/images/png/"
+flagDir = "/home/strawberry/Documents/travel/country-flag-icons/images/svg/"
 name_convert = {"Spain":"esp", "Germany":"deu", "China":"chn",'USA':'usa','Italy':'ita','United Kingdom':'gbr',
                 'Austria':'aus','Slovakia':'svk','Singapore':'sgp','Indonesia':'idn','Vietnam':'vnm','Thailand':'tha',
                 'Malaysia':'mys','Netherlands':'nld','Russia':'rus','Sweden':'swe',"Denmark":'dnk','Czechia':'cze',
@@ -11,8 +12,10 @@ name_convert = {"Spain":"esp", "Germany":"deu", "China":"chn",'USA':'usa','Italy
                 'Japan':'jpn','Ukraine':'ukr','Switzerland':'che'}
 
 def get_flag(name):
-    path = flagDir+name_convert[name]+".png"
-    im = plt.imread(path)
+    path = flagDir+name_convert[name]+".svg"
+    png_path = flagDir+name_convert[name]+".png"
+    cairosvg.svg2png(url=path, write_to=png_path)
+    im = plt.imread(png_path)
     return im
 
 def offset_image(coord, name, ax):

@@ -1,39 +1,25 @@
-import urllib.request
-import json
 import math
 import sys
+from datetime import date
+from utils import *
+import argparse
 
-# institution, points
-overallPoints = {}
-
-def getID(contestName,year):
-    print(contestName, str(year))
-    url = "https://icpc.global/cm5-contest-rest/rest/contest/public/"+ contestName + '-' + str(year)
-    fp = urllib.request.urlopen(url)
-    mybytes = fp.read()
-
-    mystr = mybytes.decode("utf8")
-    fp.close()
-    res = json.loads(mystr)
-    return str(res['id'])
-
-def getTable(contestID, factor, printTop3=True):
-    url = "https://icpc.global/cm5-contest-rest/rest/contest/standings/contest/"+str(contestID)+\
-          "?q=proj:place,institution,team,problemsSolved,totalTime,lastSolution;sort:place%20asc;&page=1&size=1000"
-    fp = urllib.request.urlopen(url)
-    mybytes = fp.read()
-
-    mystr = mybytes.decode("utf8")
-    fp.close()
-    res = json.loads(mystr)
+def argument_parser():
+  # helps parsing the same arguments in a different script
+  parser = argparse.ArgumentParser()
+  parser.add_argument('--region', default='finals', choices=['finals', 'nwerc', 'cerc','napnw','swerc','nane'])
+  parser.add_argument('--verbose', default='False', choices=['True', 'False'])
+  
+  return parser
+  
+            
+def CalculatePointsPerInstitution(table,overall, factor=1,printTop3=True):
     thisYearInst = {}
-
-    counter = 0
-    for item in res:
-        counter += 1
-        place = counter
-        institution = item['institution']
-        points = math.pow(len(res)-int(place),2)
+     
+    for item in table:
+        institution = item[0]
+        place = item[1]
+        points = math.pow((len(table)-int(place)+1)/float(len(table)),2)
         if institution not in thisYearInst.keys():
             thisYearInst[institution] = [points,1]
         else:
@@ -43,6 +29,7 @@ def getTable(contestID, factor, printTop3=True):
     arr = []
     for key in thisYearInst.keys():
         arr.append([thisYearInst[key][0]/float(math.sqrt(thisYearInst[key][1])),key])
+    
     arr.sort(reverse=True)
     if printTop3:
         for i in range(3):
@@ -50,16 +37,60 @@ def getTable(contestID, factor, printTop3=True):
         print()
 
     for item in arr:
-        if item[1] not in overallPoints.keys():
-            overallPoints[item[1]] = item[0]*factor
+        if item[1] not in overall.keys():
+            overall[item[1]] = item[0]*factor
         else:
-            overallPoints[item[1]] += item[0] * factor
+            overall[item[1]] += item[0] * factor
 
-def Run(region):
-    try:
+
+def CalculatePointsPerCountry(table,overall, factor=1, printTop3=True):
+    thisYearCountry = {}
+
+    for item in table:
+        institution = item[0]
+        place = item[1]
+        
+        if institution in insitution_to_country.keys():
+       	    points = math.pow((len(table)-int(place)+1)/float(len(table)),2)
+            country = insitution_to_country[institution]
+            if country not in thisYearCountry.keys():
+            	thisYearCountry[country] = [points,1]
+            else:
+            	thisYearCountry[country][0] += points
+            	thisYearCountry[country][1] += 1
+
+        
+    arrCountries = []
+    for key in thisYearCountry.keys():
+        arrCountries.append([thisYearCountry[key][0]/float(math.sqrt(thisYearCountry[key][1])),key])
+    
+    
+    arrCountries.sort(reverse=True)
+    if printTop3:
+        for i in range(3):
+            print(str(i+1)+'.',arrCountries[i][1],'   points:',arrCountries[i][0])
+        print()
+            
+    for item in arrCountries:
+        if item[1] not in overall.keys():
+    	    overall[item[1]] = item[0]*factor
+        else:
+            overall[item[1]] += item[0] * factor
+
+def Run(region,verbose):
+    # institution, points
+    overallPoints = {}
+    overallPointsCountry = {}
+    year = int(date.today().year)
+    if True:
         for i in range(0, 10):
-            id = getID(region, 2010 + i)
-            getTable(id, (i + 1) / 10.0)
+            id = getID(region, year-11 + i)
+            table = getTable(id)
+            CalculatePointsPerInstitution(table, overallPoints, (i + 1) / 10.0)
+            if verbose=='True':
+                CalculatePointsPerCountry(table, overallPointsCountry, (i + 1) / 10.0)
+            else:
+                CalculatePointsPerCountry(table, overallPointsCountry, (i + 1) / 10.0,False)
 
         # Final print
         arr = []
@@ -69,20 +100,28 @@ def Run(region):
 
         print('Overall:')
         for i in range(len(arr)):
+            if i>=100 and verbose=='False':
+                continue
             print(str(i + 1) + '.', arr[i][1], '   points:', arr[i][0])
-    except Exception as ex:
-        print(ex)
-        print('The program takes one argument - the name of the region (such as northwestern-europe) ')
-    # tested name of the regions :
-    # northwestern-europe
-    # central-europe
-    # Pacific-Northwest
-    # World-Finals
-    # swerc
-    # northeast-north-america
+            
+        arrCountries = []
+        for key in overallPointsCountry.keys():
+            arrCountries.append([overallPointsCountry[key], key])
+        arrCountries.sort(reverse=True)
+        
+        print()
+       	print('Overall Countries:')
+        for i in range(len(arrCountries)):
+            print(str(i + 1) + '.', arrCountries[i][1], '   points:', arrCountries[i][0])
+          
+    #except Exception as ex:
+    #    print(ex)
+
 
 if len(sys.argv) == 2:
-    Run(sys.argv[1])
+    parser = argument_parser()
+    args = parser.parse_args()
+    Run(args.region,args.verbose)
 
 
 
