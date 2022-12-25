@@ -1,0 +1,60 @@
+École Normale Supérieure de Paris,1,9
+ETH Zürich,2,8
+Universitat Politècnica de Catalunya,3,7
+Universitat Politècnica de Catalunya,4,6
+Universitat Politècnica de Catalunya,5,5
+Universidade do Porto,6,4
+University of Haifa,7,4
+Ecole Polytechnique Fédérale de Lausanne,8,4
+École Normale Supérieure de Paris,9,4
+ETH Zürich,10,4
+École Normale Supérieure de Paris,11,4
+Università di Trento,12,4
+INSA de Lyon,13,4
+Universidad Complutense de Madrid,14,4
+Technion - Israel Institute of Technology,15,3
+Politecnico di Milano,16,3
+Instituto Superior Técnico,17,3
+Ecole Polytechnique,18,3
+Politecnico di Milano,19,3
+Télécom Paris,20,3
+CentraleSupélec,21,3
+Ecole Polytechnique,22,3
+Università di Roma - La Sapienza,23,3
+École Normale Supérieure de Lyon,24,2
+Universidad Complutense de Madrid,25,2
+Universitat Politècnica de València,26,2
+École Normale Supérieure de Paris-Saclay,27,2
+École Normale Supérieure de Lyon,28,2
+University of Verona,29,2
+INSA de Lyon,30,2
+Universidad de Murcia,31,2
+University of the Basque Country,32,2
+École Normale Supérieure de Lyon,33,2
+Universidad de Murcia,34,2
+Ecole Polytechnique Fédérale de Lausanne,35,2
+Télécom Paris,36,2
+University of Valladolid,37,2
+CentraleSupélec,38,2
+Ecole Polytechnique,39,2
+Université de Technologie de Compiègne,40,2
+Universitat Pompeu Fabra,41,2
+Faculdade de Ciências - Universidade de Lisboa,42,2
+Universidad Rey Juan Carlos,43,2
+Politecnico di Milano,44,2
+École Normale Supérieure de Paris-Saclay,45,2
+École Normale Supérieure de Paris-Saclay,46,2
+Universidade do Porto,47,1
+Universitat Politècnica de València,48,1
+Universidad Autónoma de Madrid,49,1
+Universidad Autónoma de Madrid,50,1
+Universidad Complutense de Madrid,51,1
+Institut National des Sciences Appliquées de Rouen,52,1
+Universidad Autónoma de Madrid,53,1
+Instituto Superior Técnico,54,1
+University of the Basque Country,55,1
+Institut National des Sciences Appliquées de Rouen,56,1
+Universidade do Porto,57,1
+University of Valladolid,58,1
+University of the Basque Country,59,1
+Télécom Bretagne,60,1

@@ -1,0 +1,32 @@
+Massachusetts Institute of Technology,1,9
+Massachusetts Institute of Technology,2,9
+Harvard University,3,8
+Harvard University,4,8
+Northeastern University,5,5
+Northeastern University,6,5
+Brown University,7,5
+Brown University,8,5
+Rochester Institute of Technology,9,4
+Rochester Institute of Technology,10,4
+Mount Allison University,11,4
+Mount Allison University,12,4
+McGill University,13,3
+McGill University,14,3
+Boston University,15,2
+Boston University,16,2
+University of Rhode Island,17,2
+University of Rhode Island,18,2
+Clark University,19,1
+Clark University,20,1
+University of New Brunswick at Fredericton,21,1
+University of New Brunswick at Fredericton,22,1
+University of Prince Edward Island,23,1
+University of Prince Edward Island,24,1
+University of Massachusetts - Boston,25,1
+University of Massachusetts - Boston,26,1
+St. Lawrence University,27,1
+St. Lawrence University,28,1
+Hamilton College,29,0
+Hamilton College,30,0
+St. Francis Xavier University,31,0
+St. Francis Xavier University,32,0

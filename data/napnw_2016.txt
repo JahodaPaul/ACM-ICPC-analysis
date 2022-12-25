@@ -1,0 +1,151 @@
+The University of British Columbia,1,10
+University of California, Berkeley,2,9
+Stanford University,3,8
+Stanford University,4,8
+University of California, Berkeley,5,8
+The University of British Columbia,6,7
+Simon Fraser University,7,5
+Stanford University,8,5
+University of Washington,9,5
+University of Washington,10,5
+The University of British Columbia,11,5
+Simon Fraser University,12,5
+The University of British Columbia,13,5
+Simon Fraser University,14,5
+The University of British Columbia,15,4
+University of California, Berkeley,16,4
+University of Washington,17,4
+Hawaii Pacific University,18,4
+Minerva Schools at Keck Graduate Institution,19,4
+University of Victoria,20,4
+George Fox University,21,4
+University of Washington,22,4
+California State University - Chico,23,3
+University of California Davis,24,3
+California State University - Sacramento,25,3
+University of Washington,26,3
+California State University - Sacramento,27,2
+Reed College,28,2
+Portland State University,29,2
+University of Washington Tacoma,30,2
+University of Portland,31,2
+University of Oregon,32,2
+University of Victoria,33,2
+Thompson Rivers University,34,2
+California State University - Chico,35,2
+University of Washington,36,2
+Whitworth University,37,2
+Oregon State University,38,2
+Western Washington University,39,2
+University of Hawaii - Hilo,40,2
+Whitworth University,41,2
+University of Idaho,42,2
+California State University - Sacramento,43,1
+Pacific Lutheran University,44,1
+University of Hawaii - Manoa,45,1
+Oregon State University,46,1
+California State University - Sacramento,47,1
+California State University - Chico,48,1
+Whitworth University,49,1
+Thompson Rivers University,50,1
+University of Washington Tacoma,51,1
+University of Hawaii - Manoa,52,1
+George Fox University,53,1
+Eastern Washington University,54,1
+Stanford University,55,1
+Eastern Washington University,56,0
+Santa Clara University,57,0
+California State University - Chico,58,0
+University Of British Columbia Okanagan,59,0
+Lewis & Clark College,60,0
+Gonzaga University,61,0
+University of Washington Tacoma,62,0
+California State University - Sacramento,63,0
+University of the Pacific,64,0
+George Fox University,65,0
+California State University - Chico,66,0
+University of Hawaii - Manoa,67,0
+Thompson Rivers University,68,0
+Gonzaga University,69,0
+Whitworth University,70,0
+University of Puget Sound,71,0
+Minerva Schools at Keck Graduate Institution,72,0
+University of California, Berkeley,73,0
+Brigham Young University - Hawaii,74,0
+University of California, Berkeley,75,12
+The University of British Columbia,76,12
+The University of British Columbia,77,11
+Simon Fraser University,78,11
+The University of British Columbia,79,8
+University of Northern British Columbia,80,8
+George Fox University,81,6
+George Fox University,82,5
+University of Portland,83,5
+Simon Fraser University,84,5
+Oregon State University,85,5
+Western Washington University,86,4
+Pacific Lutheran University,87,4
+The University of British Columbia,88,4
+Pacific University,89,4
+University of the Pacific,90,4
+University of Victoria,91,4
+Reed College,92,4
+Pacific Lutheran University,93,4
+George Fox University,94,4
+Oregon State University,95,4
+Eastern Washington University,96,4
+University of Portland,97,3
+Pacific University,98,3
+University of Washington Tacoma,99,3
+Eastern Washington University,100,3
+Linfield College,101,3
+University of Idaho,102,3
+Pacific University,103,3
+Pacific Lutheran University,104,3
+University Of British Columbia Okanagan,105,3
+Pacific University,106,3
+Pacific Lutheran University,107,3
+University of Hawaii - Hilo,108,3
+University of Washington Tacoma,109,3
+Eastern Washington University,110,3
+Oregon State University,111,3
+University of California Davis,112,3
+Eastern Washington University,113,2
+University of Victoria,114,2
+Eastern Washington University,115,2
+Linfield College,116,2
+University of Oregon,117,2
+University of Northern British Columbia,118,2
+University of Portland,119,2
+University of Puget Sound,120,2
+University Of British Columbia Okanagan,121,2
+George Fox University,122,2
+Linfield College,123,2
+Minerva Schools at Keck Graduate Institution,124,2
+Okanagan College,125,2
+Brigham Young University - Hawaii,126,1
+Linfield College,127,1
+Hawaii Pacific University,128,1
+Okanagan College,129,1
+University of Idaho,130,1
+Hawaii Pacific University,131,1
+Lewis & Clark College,132,1
+Washington State University,133,1
+Pacific University,134,1
+Brigham Young University - Hawaii,135,1
+University of Puget Sound,136,1
+Eastern Washington University,137,1
+Pacific Lutheran University,138,1
+Brigham Young University - Hawaii,139,1
+University of Puget Sound,140,1
+University of Puget Sound,141,1
+Minerva Schools at Keck Graduate Institution,142,1
+Brigham Young University - Hawaii,143,1
+Hawaii Pacific University,144,1
+Linfield College,145,1
+University of the Pacific,146,0
+Gonzaga University,147,0
+Brigham Young University - Hawaii,148,0
+Pacific University,149,0
+University of Washington Tacoma,150,0
+Okanagan College,151,0

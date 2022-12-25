@@ -1,0 +1,12 @@
+Massachusetts Institute of Technology,1,6
+Harvard University,2,5
+University of Rochester,3,4
+Worcester Polytechnic Institute,4,3
+University of Massachusetts - Amherst,5,3
+Middlebury College,6,3
+Brown University,7,2
+Mount Allison University,8,2
+Clark University,9,1
+University of New Brunswick Saint John,10,1
+Rochester Institute of Technology,11,1
+Dalhousie University,12,0

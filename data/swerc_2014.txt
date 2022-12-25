@@ -1,0 +1,49 @@
+Universitat Politècnica de Catalunya,1,9
+ETH Zürich,2,8
+École Normale Supérieure de Paris,3,8
+Ecole Polytechnique Fédérale de Lausanne,4,7
+Universitat Politècnica de Catalunya,5,5
+University of the Basque Country,6,5
+École Normale Supérieure de Lyon,7,5
+École Normale Supérieure de Paris,8,5
+Universitat Politècnica de Catalunya,9,4
+Università di Roma - La Sapienza,10,4
+ETH Zürich,11,4
+Universidade do Porto,12,4
+Télécom Paris,13,4
+Universidad Complutense de Madrid,14,4
+Technion - Israel Institute of Technology,15,3
+École Normale Supérieure de Paris,16,3
+Ecole Polytechnique,17,3
+Universidad de Murcia,18,3
+Universidad Complutense de Madrid,19,3
+University of Bologna,20,2
+Universidad Complutense de Madrid,21,2
+Ecole Polytechnique Fédérale de Lausanne,22,2
+University of Bologna,23,2
+University of Coimbra,24,2
+École Normale Supérieure de Lyon,25,2
+Ecole Polytechnique,26,1
+Faculdade de Ciências - Universidade de Lisboa,27,1
+Politecnico di Torino,28,1
+Universidade Nova de Lisboa,29,1
+University of Coimbra,30,1
+University of Coimbra,31,1
+Universitat Politècnica de València,32,1
+Télécom Paris,33,1
+Universidad de Murcia,34,1
+Institut National des Sciences Appliquées de Rouen,35,1
+Universidad Autónoma de Madrid,36,0
+Universitat Politècnica de València,37,0
+École Normale Supérieure de Paris-Saclay,38,0
+Universidad CEU-Cardenal Herrera,39,0
+Universidade do Porto,40,0
+Universidade da Coruña,41,0
+University of the Basque Country,42,0
+Universidad Autónoma de Madrid,43,0
+Ecole Polytechnique,44,0
+Universitat Pompeu Fabra,45,0
+University of Valladolid,46,0
+Institut National des Sciences Appliquées de Rouen,47,0
+Universidad Autónoma de Madrid,48,0
+Faculdade de Engenharia da Universidade do Porto,49,0

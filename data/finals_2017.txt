@@ -1,0 +1,133 @@
+St. Petersburg ITMO University,1,10
+University of Warsaw,2,10
+Seoul National University,3,10
+St. Petersburg State University,4,10
+Moscow Institute of Physics and Technology,5,10
+Tsinghua University,6,9
+Peking University,7,9
+Fudan University,8,8
+KAIST,9,8
+Ural Federal University,10,8
+KTH - Royal Institute of Technology,11,8
+The University of Tokyo,12,8
+Shanghai Jiao Tong University,13,7
+Perm State University,14,7
+University of Electronic Science and Technology of China,15,7
+UNSW Sydney,16,7
+University of Helsinki,17,7
+University of Waterloo,18,7
+University of Central Florida,19,7
+St. Petersburg Academic University,20,6
+Fuzhou University,21,6
+University of Latvia,22,6
+The University of British Columbia,23,6
+Massachusetts Institute of Technology,24,6
+National Taiwan University,25,6
+Saratov State University,26,6
+University of Zagreb,27,6
+University of Bucharest,28,6
+University of Wroclaw,29,6
+Lviv National University,30,6
+University of Rochester,31,6
+National University of Singapore,32,6
+Hangzhou Dianzi University,33,6
+ETH Zürich,34,5
+The Chinese University of Hong Kong,35,5
+Belarusian State University of Informatics and Radioelectronics,36,5
+Tomsk Polytechnic University,37,5
+Chulalongkorn University,38,5
+University of Engineering and Technology - VNU,39,5
+Jagiellonian University in Krakow,40,5
+Moscow State University,41,5
+National Research University Higher School of Economics,42,5
+Uzhgorod National University,43,5
+Universidad de La Habana,44,5
+Universitas Indonesia,45,5
+École Normale Supérieure de Paris,46,5
+POLITEHNICA University of Bucharest,47,5
+University of California, Berkeley,48,5
+Novosibirsk State University,49,5
+Washington University in St. Louis,50,5
+Tokyo Institute of Technology,51,5
+Vilnius University,52,5
+Beijing University of Posts and Telecommunications,53,5
+Indian Institute of Technology - Bombay,54,5
+Wuhan University,55,5
+Zhejiang University,56,4
+German University in Cairo,57,4
+Petrozavodsk State University,58,4
+University of Aizu,59,4
+Indian Institute of Technology - Indore,60,4
+Beijing Normal University,61,4
+Cornell University,62,4
+Shanghai University,63,4
+Virginia Tech,64,4
+Chennai Mathematical Institute,65,4
+South China University of Technology,66,4
+Universidad Nacional de Córdoba - FaMAF,67,4
+Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar,68,4
+University of the Philippines - Diliman,69,4
+Beihang University,70,4
+Universidad de Buenos Aires - FCEN,71,4
+Northeastern University (China),72,4
+University of California, Los Angeles,73,4
+Beijing Institute of Technology,74,4
+Universidade Federal de Pernambuco,75,4
+Universidade Federal do Rio Grande do Norte,76,4
+Ain Shams University - Faculty of Computer and Information Sciences,77,4
+Yerevan State University,78,4
+Universidad de Chile,79,4
+University of Dhaka,80,4
+Instituto Tecnológico Autónomo de México,81,4
+University of Wisconsin-Madison,82,4
+Universidad Simón Bolívar,83,4
+Universidade Federal de Itajubá - Campus Itajubá,84,4
+Samara National Research University,85,4
+Benha University - Faculty of Engineering at Shoubra,86,4
+Taras Shevchenko National University of Kyiv,87,4
+University of California Irvine,88,4
+International Institute of Information Technology - Hyderabad,89,4
+Bina Nusantara University,90,4
+TOBB University of Economics and Technology,91,4
+University of Tehran,92,4
+Monash University,93,4
+University of Maryland,94,4
+Universidade Federal da Bahia,95,4
+Universidade Estadual de Campinas,96,4
+Northwestern University,97,4
+Pontificia Universidad Católica del Perú - FCI,98,4
+Arab Academy for Science and Technology - Alexandria,99,4
+Indian Institute of Technology - Kanpur,100,4
+Universidad Nacional de Colombia - Bogotá,101,4
+Keio University,102,4
+Shahid Beheshti University,103,4
+University of Illinois at Urbana-Champaign,104,4
+The American University in Cairo,105,4
+University of Oxford,106,4
+Princeton University,107,4
+Cairo University - Faculty of Computers and Artificial Intelligence,108,4
+The University of Texas at Austin,109,4
+Jahangirnagar University,110,3
+Universidade Federal de Campina Grande,111,3
+International Institute of Information Technology - Bangalore,112,3
+University of Michigan at Ann Arbor,113,3
+University of Pennsylvania,114,3
+Bangladesh University of Engineering and Technology,115,3
+University of Alberta,116,3
+National Institute of Technology Karnataka, Surathkul,117,3
+Universidad Nacional de Rosario,118,3
+Facultad de Ciencias-Universidad Nacional Autónoma de México,119,3
+Cedarville University,120,3
+Universidad Mayor de San Simon - Sistemas,121,3
+Universidad Autónoma de Nuevo Leon,122,3
+Mount Allison University,123,3
+University of Cape Town,124,2
+The University of South Dakota,125,2
+South Dakota School of Mines and Technology,126,2
+Iowa State University,127,2
+University of Management and Technology,128,0
+Sharif University of Technology,129,0
+Damascus University,130,0
+Universidad de Pinar del Río,131,0
+Tishreen University,132,0
+Al-Baath University,133,0

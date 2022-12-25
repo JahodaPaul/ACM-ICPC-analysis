@@ -1,0 +1,20 @@
+Massachusetts Institute of Technology,1,9
+Harvard University,2,8
+Brown University,3,7
+McGill University,4,6
+Northeastern University,5,6
+University of Rochester,6,6
+Rochester Institute of Technology,7,5
+Mount Allison University,8,4
+Brandeis University,9,4
+Concordia University - Canada,10,3
+State University of New York at Oswego,11,3
+University of Rhode Island,12,3
+Acadia University,13,3
+Hamilton College,14,3
+University of Prince Edward Island,15,2
+University of Massachusetts - Boston,16,2
+University of New Brunswick at Fredericton,17,1
+University at Buffalo - State University of New York,18,0
+Université de Moncton,19,0
+SUNY College at Fredonia,20,0

@@ -1,0 +1,63 @@
+University of Warsaw,1,11
+University of Warsaw,2,11
+University of Wroclaw,3,11
+Jagiellonian University in Krakow,4,11
+Charles University in Prague,5,11
+University of Zagreb,6,11
+University of Warsaw,7,11
+University of Wroclaw,8,11
+University of Wroclaw,9,11
+University of Warsaw,10,10
+University of Wroclaw,11,10
+Jagiellonian University in Krakow,12,10
+University of Warsaw,13,10
+University of Zagreb,14,10
+University of Zagreb,15,10
+Jagiellonian University in Krakow,16,10
+Comenius University,17,9
+Jagiellonian University in Krakow,18,9
+University of Wroclaw,19,9
+University of Wroclaw,20,9
+Eötvös Loránd University,21,9
+Jagiellonian University in Krakow,22,9
+Poznan University of Technology,23,8
+University of Wroclaw,24,8
+Eötvös Loránd University,25,8
+Charles University in Prague,26,8
+Charles University in Prague,27,8
+Comenius University,28,8
+Eötvös Loránd University,29,8
+University of Ljubljana,30,7
+Budapest University of Technology and Economics,31,7
+AGH University of Science and Technology,32,7
+University of Ljubljana,33,7
+Charles University in Prague,34,6
+AGH University of Science and Technology,35,6
+Masaryk University,36,6
+Budapest University of Technology and Economics,37,6
+Czech Technical University in Prague,38,5
+Josip Juraj Strossmayer University of Osijek,39,5
+Nicolaus Copernicus University,40,5
+Czech Technical University in Prague,41,5
+Czech Technical University in Prague,42,5
+University of Maribor,43,4
+Czech Technical University in Prague,44,4
+University of Ljubljana,45,4
+University of Žilina,46,3
+University of Maribor,47,2
+VŠB - Technical University of Ostrava,48,2
+University of RIjeka,49,2
+University of West Bohemia in Pilsen,50,2
+University of Debrecen,51,2
+University of West Bohemia in Pilsen,52,2
+VŠB - Technical University of Ostrava,53,2
+University of Debrecen,54,1
+Maria Curie-Skłodowska University,55,1
+Nicolaus Copernicus University,56,1
+Slovak University of Technology in Bratislava,57,1
+University of Žilina,58,1
+University of Primorska,59,1
+University of Szeged,60,1
+University of Szeged,61,1
+University of West Bohemia in Pilsen,62,1
+Juraj Dobrila University of Pula,63,0

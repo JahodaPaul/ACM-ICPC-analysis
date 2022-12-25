@@ -1,0 +1,61 @@
+University of Wroclaw,1,8
+Jagiellonian University in Krakow,2,8
+Jagiellonian University in Krakow,3,8
+University of Warsaw,4,7
+University of Warsaw,5,6
+Jagiellonian University in Krakow,6,6
+Jagiellonian University in Krakow,7,6
+University of Wroclaw,8,6
+Eötvös Loránd University,9,6
+University of Wroclaw,10,6
+Charles University in Prague,11,6
+Eötvös Loránd University,12,6
+University of Wroclaw,13,6
+Jagiellonian University in Krakow,14,6
+University of Zagreb,15,6
+University of Wroclaw,16,5
+University of Zagreb,17,5
+University of Wroclaw,18,5
+Jagiellonian University in Krakow,19,5
+University of Zagreb,20,5
+University of Zagreb,21,5
+Eötvös Loránd University,22,5
+University of Warsaw,23,5
+University of Ljubljana,24,5
+Charles University in Prague,25,5
+University of Ljubljana,26,5
+University of Latvia,27,4
+University of Warsaw,28,4
+University of Latvia,29,4
+Poznan University of Technology,30,4
+Jagiellonian University in Krakow,31,3
+University of Maribor,32,3
+University of Ljubljana,33,3
+Charles University in Prague,34,3
+University of Warsaw,35,3
+AGH University of Science and Technology,36,3
+University of Warsaw,37,3
+University of RIjeka,38,3
+Poznan University of Technology,39,3
+Czech Technical University in Prague,40,3
+University of Szeged,41,2
+University of Zagreb,42,2
+Josip Juraj Strossmayer University of Osijek,43,2
+Nicolaus Copernicus University,44,2
+University of Ljubljana,45,2
+Vienna University of Technology,46,2
+University of Wroclaw,47,2
+Nicolaus Copernicus University,48,2
+AGH University of Science and Technology,49,2
+Vienna University of Technology,50,2
+Czech Technical University in Prague,51,1
+Czech Technical University in Prague,52,1
+Czech Technical University in Prague,53,1
+Czech Technical University in Prague,54,1
+University of Maribor,55,1
+Czech Technical University in Prague,56,1
+Budapest University of Technology and Economics,57,1
+University of Szeged,58,1
+Budapest University of Technology and Economics,59,1
+University of Primorska,60,1
+Nicolaus Copernicus University,61,1

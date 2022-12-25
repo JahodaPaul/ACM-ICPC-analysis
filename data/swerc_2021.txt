@@ -1,0 +1,97 @@
+Harbour.Space University,1,10
+Tel Aviv University,2,10
+Tel Aviv University,3,9
+Harbour.Space University,4,9
+École Normale Supérieure de Paris,5,9
+ETH Zürich,6,9
+Ecole Polytechnique,7,8
+Universitat Politècnica de Catalunya,8,8
+École Normale Supérieure de Paris,9,8
+University of Padova,10,8
+Universitat Politècnica de Catalunya,11,8
+Instituto Superior Técnico,12,7
+Universitat Politècnica de Catalunya,13,7
+Ecole Polytechnique,14,7
+Ecole Polytechnique Fédérale de Lausanne,15,7
+Université de Lorraine,16,6
+University of Bologna,17,6
+ETH Zürich,18,6
+Universidade do Porto,19,6
+Scuola Normale Superiore,20,6
+Università Degli Studi di Milano,21,6
+CentraleSupélec,22,6
+Universidad de Murcia,23,6
+École Normale Supérieure de Lyon,24,6
+Università di Pisa,25,6
+Faculdade de Engenharia da Universidade do Porto,26,6
+Harbour.Space University,27,5
+Technion - Israel Institute of Technology,28,5
+Politecnico di Milano,29,5
+Università di Roma - La Sapienza,30,5
+École Normale Supérieure de Lyon,31,5
+Télécom Paris,32,5
+ETH Zürich,33,5
+ENSTA Paris,34,5
+Ecole Polytechnique Fédérale de Lausanne,35,5
+Universidad Autónoma de Madrid,36,5
+University of Haifa,37,5
+Instituto Superior Técnico,38,5
+University of Bologna,39,4
+University of Padova,40,4
+Università di Trento,41,4
+Politecnico di Milano,42,4
+Università di Trento,43,4
+Polytech Paris Saclay,44,4
+École Normale Supérieure de Paris-Saclay,45,4
+Politecnico di Torino,46,4
+Università di Roma - La Sapienza,47,4
+University of Coimbra,48,4
+École Normale Supérieure de Paris,49,4
+Università Degli Studi di Milano,50,4
+Universidad Complutense de Madrid,51,4
+Politecnico di Torino,52,4
+Université de Paris,53,4
+Ecole Centrale de Lyon,54,3
+Università di Trento,55,3
+INSA de Lyon,56,3
+Universidad de Murcia,57,3
+Università degli Studi di Torino,58,3
+Télécom Paris,59,3
+Universidad Rey Juan Carlos,60,3
+INSA de Lyon,61,3
+Università degli Studi di Genova,62,3
+Université de Montpellier,63,3
+Ecole Centrale de Lyon,64,3
+Télécom Paris,65,3
+Politecnico di Milano,66,3
+Sorbonne Université,67,3
+École Normale Supérieure de Paris-Saclay,68,3
+Universidad Complutense de Madrid,69,3
+École Normale Supérieure de Lyon,70,3
+Ca' Foscari University of Venice,71,3
+INSA de Lyon,72,3
+University of Bologna,73,2
+Universitat Politècnica de València,74,2
+University of Haifa,75,2
+Università degli Studi di Genova,76,2
+Universidad Rey Juan Carlos,77,2
+Università di Roma - La Sapienza,78,2
+Universidad Rey Juan Carlos,79,2
+University of the Basque Country,80,2
+Université de Montpellier,81,2
+Universitat Politècnica de València,82,2
+Université de Paris,83,2
+Sorbonne Université,84,2
+Politecnico di Torino,85,2
+University of Verona,86,2
+University of Coimbra,87,2
+Universitat Pompeu Fabra,88,2
+Sorbonne Université,89,2
+Ecole d'Ingénieurs Littoral Côte d'Opale,90,2
+Universidad Autónoma de Madrid,91,2
+Universitat Pompeu Fabra,92,2
+University of Rennes 1,93,1
+University of Rennes 1,94,1
+University of the Basque Country,95,1
+Universidade da Beira Interior,96,1
+University of L'Aquila,97,1

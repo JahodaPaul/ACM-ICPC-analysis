@@ -3,6 +3,7 @@ import sys
 from datetime import date
 from utils import *
 import argparse
+import os
 
 def argument_parser():
   # helps parsing the same arguments in a different script
@@ -139,10 +140,22 @@ def Run(region,verbose):
     overallPointsCountry = {}
     overallPointsRegion = {}
     year = int(date.today().year)
-    if True:
-        for i in range(0, 10):
-            id = getID(region, year-11 + i)
-            table = getTable(id)
+    
+    if not os.path.exists('data'):
+        os.mkdir('data')
+        
+    for i in range(0, 10):
+        try:
+            current_year = year-10 + i
+            path = 'data/' + region + '_' + str(current_year) +'.txt'
+            if not os.path.exists(path):
+                id = getID(region, current_year)
+                table = getTable(id)
+                saveData(table,path)
+            else:
+                table = loadData(path)
+            if len(table) == 0:
+                continue
             CalculatePointsPerInstitution(table, overallPoints, (i + 1) / 10.0)
             if verbose=='True':
                 CalculatePointsPerCountry(table, overallPointsCountry, (i + 1) / 10.0)
@@ -153,21 +166,21 @@ def Run(region,verbose):
                 CalculatePointsPerRegion(table, overallPointsRegion, (i + 1) / 10.0)
             else:
                 CalculatePointsPerRegion(table, overallPointsRegion, (i + 1) / 10.0,False)
+        except Exception as ex:
+            print(ex)
 
-        # Final print
-        PrintUniRankings(overallPoints,verbose)
-        PrintCountryRankings(overallPointsCountry,verbose)
-        PrintRegionRankings(overallPointsRegion, verbose)
-        PrintUniInRegionrRanking(overallPoints,'EU',verbose)
+    # Final print
+    PrintUniRankings(overallPoints,verbose)
+    PrintCountryRankings(overallPointsCountry,verbose)
+    PrintRegionRankings(overallPointsRegion, verbose)
+    PrintUniInRegionrRanking(overallPoints,'EU',verbose)
           
-    #except Exception as ex:
-    #    print(ex)
 
 
-if len(sys.argv) == 2:
-    parser = argument_parser()
-    args = parser.parse_args()
-    Run(args.region,args.verbose)
+
+parser = argument_parser()
+args = parser.parse_args()
+Run(args.region,args.verbose)
 
 
 

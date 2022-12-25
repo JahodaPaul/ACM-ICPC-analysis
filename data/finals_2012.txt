@@ -1,0 +1,112 @@
+St. Petersburg ITMO University,1,9
+University of Warsaw,2,9
+Moscow Institute of Physics and Technology,3,8
+Shanghai Jiao Tong University,4,7
+Belarusian State University,5,7
+Zhongshan (Sun Yat-sen) University,6,7
+Harvard University,7,7
+The Chinese University of Hong Kong,8,7
+University of Waterloo,9,6
+Moscow State University,10,6
+The University of Tokyo,11,6
+Belarusian State University of Informatics and Radioelectronics,12,6
+Saratov State University,13,6
+Stanford University,14,6
+Peking University,15,6
+Kazakh-British Technical University,16,6
+Nanyang Technological University,17,6
+Nizhny Novgorod State University,18,5
+National Taiwan University,19,5
+Indian Institute of Technology - Delhi,20,5
+National Technical University "Kharkiv Polytechnic Institute",21,5
+Massachusetts Institute of Technology,22,5
+St. Petersburg State University,23,5
+Jagiellonian University in Krakow,24,5
+Tsinghua University,25,5
+Princeton University,26,5
+Kyoto University,27,5
+University of Latvia,28,5
+Ural Federal University,29,5
+International Institute of Information Technology - Hyderabad,30,5
+Wuhan University,31,5
+University of Wroclaw,32,5
+Carnegie Mellon University,33,5
+The University of British Columbia,34,5
+Fuzhou University,35,5
+Hong Kong University of Science and Technology,36,4
+University of Bucharest,37,4
+Fudan University,38,4
+Delft University of Technology,39,4
+Volgograd State Technical University,40,4
+V.I. Vernadsky Crimean Federal University,41,4
+University of Alberta,42,4
+University of the Philippines - Diliman,43,4
+UNSW Sydney,44,4
+Charles University in Prague,45,4
+Zhejiang University of Technology,46,4
+Universidade Federal de Campina Grande,47,4
+University of Central Florida,48,4
+Universidad de Buenos Aires - FCEN,49,4
+Tianjin University,50,4
+University of Electronic Science and Technology of China,51,4
+Universidad Nacional de Ingeniería,52,4
+Universitat Politècnica de Catalunya,53,4
+Beijing University of Posts and Telecommunications,54,4
+University of Southern California,55,4
+Institut Teknologi Bandung,56,4
+East China Normal University,57,4
+Poznan University of Technology,58,4
+Seoul National University,59,4
+Tomsk State University,60,4
+Sharif University of Technology,61,4
+Universidade Federal do Rio de Janeiro,62,4
+Korea University,63,4
+Zhejiang University,64,3
+Pontificia Universidad Católica del Perú,65,3
+Ufa State Aviation Technical University,66,3
+Altai State Technical University,67,3
+Eindhoven University of Technology,68,3
+Instituto Tecnológico de Aeronautica,69,3
+National University of Singapore,70,3
+University of Wisconsin-Madison,71,3
+Georgia Institute of Technology,72,3
+Duke University,73,3
+Universidad Nacional de Córdoba - FaMAF,74,3
+University of São Paulo - Institute of Mathematics and Statistics,75,3
+University of Toronto,76,3
+National University of Defense Technology,77,3
+Aalto University,78,3
+Universidade Federal de Pernambuco,79,3
+The University of Electro-Communications,80,2
+German University in Cairo,81,2
+Instituto Tecnológico de Santo Domingo,82,2
+University of Tehran,83,2
+Udmurt State University,84,2
+Messiah College,85,2
+Sichuan University,86,2
+Universidad de Guanajuato - CIMAT,87,2
+University of Cape Town,88,2
+The University of Chicago,89,2
+Universidade Federal do Paraná,90,2
+Chennai Mathematical Institute,91,2
+Indian Institute of Technology - Kanpur,92,2
+University of Tulsa,93,2
+Graduate University of the Chinese Academy of Sciences,94,2
+Iowa State University,95,2
+Universidad Nacional de Colombia - Bogotá,96,2
+Bangladesh University of Engineering and Technology,97,2
+Shahjalal University of Science and Technology,98,2
+International Islamic University Malaysia,99,2
+American University of Sharjah,100,2
+Indian Institute of Technology - Madras,101,1
+Alexandria University - Faculty of Engineering,102,1
+University of Canterbury,103,1
+College of William and Mary,104,1
+Cairo University - Faculty of Computers and Artificial Intelligence,105,1
+Universidad Tecnológica de la Mixteca,106,1
+University of Illinois at Urbana-Champaign,107,1
+Illinois Institute of Technology,108,1
+ITESM Campus Puebla,109,1
+Universidad de La Habana,110,1
+Universidad de los Andes, Colombia,111,1
+University of Minnesota - Twin Cities,112,1

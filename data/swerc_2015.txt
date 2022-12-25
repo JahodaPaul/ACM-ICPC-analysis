@@ -1,0 +1,103 @@
+Universitat Politècnica de Catalunya,1,9
+Universitat Politècnica de Catalunya,2,9
+ETH Zürich,3,9
+ETH Zürich,4,9
+École Normale Supérieure de Paris,5,8
+École Normale Supérieure de Paris,6,8
+Universitat Politècnica de Catalunya,7,7
+Universitat Politècnica de Catalunya,8,7
+École Normale Supérieure de Paris,9,7
+École Normale Supérieure de Paris,10,7
+Ecole Polytechnique Fédérale de Lausanne,11,7
+Ecole Polytechnique Fédérale de Lausanne,12,7
+Universidade do Porto,13,7
+Universidade do Porto,14,7
+École Normale Supérieure de Paris,15,7
+École Normale Supérieure de Paris,16,7
+ETH Zürich,17,7
+ETH Zürich,18,7
+École Normale Supérieure de Lyon,19,6
+École Normale Supérieure de Lyon,20,6
+Universitat Politècnica de Catalunya,21,6
+Universitat Politècnica de Catalunya,22,6
+Ecole Polytechnique Fédérale de Lausanne,23,5
+Ecole Polytechnique Fédérale de Lausanne,24,5
+École Normale Supérieure de Paris-Saclay,25,5
+École Normale Supérieure de Paris-Saclay,26,5
+Télécom Paris,27,5
+Télécom Paris,28,5
+École Normale Supérieure de Lyon,29,5
+École Normale Supérieure de Lyon,30,5
+Università di Roma - La Sapienza,31,4
+Università di Roma - La Sapienza,32,4
+Universidad Complutense de Madrid,33,4
+Universidad Complutense de Madrid,34,4
+Technion - Israel Institute of Technology,35,4
+Technion - Israel Institute of Technology,36,4
+Ecole Polytechnique,37,4
+Ecole Polytechnique,38,4
+Universidad Autónoma de Madrid,39,4
+Universidad Autónoma de Madrid,40,4
+École Normale Supérieure de Paris-Saclay,41,4
+École Normale Supérieure de Paris-Saclay,42,4
+Universidad de Murcia,43,3
+Universidad de Murcia,44,3
+INSA de Lyon,45,3
+INSA de Lyon,46,3
+Universitat Pompeu Fabra,47,3
+Universitat Pompeu Fabra,48,3
+Universitat Politècnica de València,49,3
+Universitat Politècnica de València,50,3
+Faculdade de Ciências - Universidade de Lisboa,51,3
+Faculdade de Ciências - Universidade de Lisboa,52,3
+Ecole Polytechnique,53,3
+Ecole Polytechnique,54,3
+Instituto Superior Técnico,55,2
+Instituto Superior Técnico,56,2
+Institut National des Sciences Appliquées de Rouen,57,2
+Institut National des Sciences Appliquées de Rouen,58,2
+University of Applied Sciences Northwestern Switzerland,59,2
+University of Applied Sciences Northwestern Switzerland,60,2
+University of Coimbra,61,2
+University of Coimbra,62,2
+Ecole Polytechnique,63,2
+Ecole Polytechnique,64,2
+Universidade do Porto,65,2
+Universidade do Porto,66,2
+Technion - Israel Institute of Technology,67,1
+Technion - Israel Institute of Technology,68,1
+Universidade Nova de Lisboa,69,1
+Universidade Nova de Lisboa,70,1
+Télécom Bretagne,71,1
+Télécom Bretagne,72,1
+INSA de Lyon,73,1
+INSA de Lyon,74,1
+University of the Basque Country,75,1
+University of the Basque Country,76,1
+Universitat Politècnica de València,77,1
+Universitat Politècnica de València,78,1
+Institut National des Sciences Appliquées de Rouen,79,1
+Institut National des Sciences Appliquées de Rouen,80,1
+University of the Basque Country,81,1
+University of the Basque Country,82,1
+Universidad de Murcia,83,1
+Universidad de Murcia,84,1
+Universidad de Extremadura,85,1
+Universidad de Extremadura,86,1
+University of Valladolid,87,1
+University of Valladolid,88,1
+Télécom Paris,89,1
+Télécom Paris,90,1
+Universidad Complutense de Madrid,91,1
+Universidad Complutense de Madrid,92,1
+Universidad Complutense de Madrid,93,1
+Universidad Complutense de Madrid,94,1
+Faculdade de Engenharia da Universidade do Porto,95,1
+Faculdade de Engenharia da Universidade do Porto,96,1
+Universidade do Porto,97,1
+Universidade do Porto,98,1
+Télécom Bretagne,99,1
+Télécom Bretagne,100,1
+Universidad de Castilla-La Mancha,101,1
+Università di Trento,102,1
+Università di Trento,103,1

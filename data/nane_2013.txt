@@ -1,0 +1,12 @@
+Massachusetts Institute of Technology,1,6
+Worcester Polytechnic Institute,2,6
+University of Rochester,3,5
+Harvard University,4,5
+University of Massachusetts - Amherst,5,4
+University of New Brunswick at Fredericton,6,4
+Rochester Institute of Technology,7,4
+Skidmore College,8,3
+Université de Moncton,9,2
+McGill University,10,2
+Acadia University,11,1
+University of Connecticut,12,0

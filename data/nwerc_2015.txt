@@ -1,0 +1,99 @@
+University of Helsinki,1,10
+Imperial College London,2,9
+Utrecht University,3,9
+Radboud University,4,9
+Karlsruhe Institute of Technology,5,8
+Reykjavik University,6,8
+University of Cambridge,7,8
+University College London,8,8
+Université Catholique de Louvain,9,7
+Friedrich-Alexander-University Erlangen-Nuremberg,10,7
+University of Warwick,11,7
+University of Cambridge,12,7
+Lund University,13,7
+Saarland University,14,7
+Friedrich-Alexander-University Erlangen-Nuremberg,15,7
+KTH - Royal Institute of Technology,16,7
+University of Southampton,17,7
+Katholieke Universiteit Leuven,18,7
+Technische Universität München,19,7
+University of Oxford,20,7
+KTH - Royal Institute of Technology,21,7
+Norwegian University of Science and Technology,22,7
+Delft University of Technology,23,7
+University of Copenhagen,24,7
+Friedrich-Alexander-University Erlangen-Nuremberg,25,6
+University of Oxford,26,6
+Ludwig-Maximilians Universität München,27,6
+Karlsruhe Institute of Technology,28,6
+University of Edinburgh,29,6
+Technische Universität München,30,6
+Utrecht University,31,6
+University of Göttingen,32,6
+University of Cambridge,33,6
+Imperial College London,34,5
+Universiteit van Amsterdam,35,5
+Delft University of Technology,36,5
+Aarhus University,37,5
+Uppsala University,38,5
+Linköping Institute of Technology,39,5
+Université Catholique de Louvain,40,4
+Eindhoven University of Technology,41,4
+University of Twente,42,4
+Johannes Gutenberg Universität Mainz,43,4
+Technische Universität München,44,4
+University of Oslo,45,4
+Aarhus University,46,4
+Universität zu Lübeck,47,4
+Saarland University,48,4
+Eindhoven University of Technology,49,4
+University of Edinburgh,50,4
+University of Oslo,51,4
+Linköping Institute of Technology,52,4
+Linköping Institute of Technology,53,4
+Eindhoven University of Technology,54,4
+Linköping Institute of Technology,55,3
+Karlsruhe Institute of Technology,56,3
+Radboud University,57,3
+Luleå University of Technology,58,3
+Aalto University,59,3
+Umeå University,60,3
+Jacobs University,61,3
+Katholieke Universiteit Leuven,62,3
+Lund University,63,3
+Universität zu Lübeck,64,3
+Leiden University,65,3
+Lappeenranta University of Technology,66,3
+University of Oxford,67,3
+University of Warwick,68,2
+University of Manchester,69,2
+University of Nottingham,70,2
+Delft University of Technology,71,2
+Vrije Universiteit,72,2
+Norwegian University of Science and Technology,73,2
+Dublin City University,74,2
+University of Warwick,75,2
+Universität Rostock,76,2
+Frankfurt University of Applied Sciences,77,2
+University of Copenhagen,78,2
+University of Manchester,79,2
+Universität Ulm,80,2
+Johannes Gutenberg Universität Mainz,81,2
+University of Bath,82,2
+Vrije Universiteit,83,2
+Lund University,84,2
+Jacobs University,85,2
+University College London,86,2
+Avans Hogeschool's - Hertogenbosch,87,2
+University of Applied Sciences Landshut,88,2
+Avans Hogeschool's - Hertogenbosch,89,2
+Frankfurt University of Applied Sciences,90,2
+University of Liverpool,91,2
+Frankfurt University of Applied Sciences,92,2
+University of Bath,93,1
+University of Applied Sciences Landshut,94,1
+University of St Andrews,95,0
+Gjøvik University College,96,0
+University of St Andrews,97,0
+Leiden University,98,0
+University of St Andrews,99,0

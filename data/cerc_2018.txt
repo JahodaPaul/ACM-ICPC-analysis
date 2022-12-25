@@ -1,0 +1,151 @@
+University of Warsaw,1,12
+University of Warsaw,2,12
+Korespondenční Seminář z Programování,3,3
+University of Zagreb,4,10
+University of Zagreb,5,10
+Gymnasium Arabská,6,0
+Gymnasium Arabská,7,0
+University of Warsaw,8,10
+University of Warsaw,9,10
+University of Wroclaw,10,9
+University of Wroclaw,11,9
+University of Warsaw,12,8
+University of Warsaw,13,8
+Jagiellonian University in Krakow,14,7
+Jagiellonian University in Krakow,15,7
+University of Zagreb,16,6
+University of Zagreb,17,6
+Eötvös Loránd University,18,6
+Eötvös Loránd University,19,6
+Charles University in Prague,20,6
+Charles University in Prague,21,6
+Jagiellonian University in Krakow,22,6
+Jagiellonian University in Krakow,23,6
+University of Wroclaw,24,6
+University of Wroclaw,25,6
+Poznan University of Technology,26,6
+Poznan University of Technology,27,6
+University of Wroclaw,28,6
+University of Wroclaw,29,6
+Comenius University,30,6
+Comenius University,31,6
+University of Zagreb,32,6
+University of Zagreb,33,6
+University of Warsaw,34,5
+University of Warsaw,35,5
+University of Warsaw,36,5
+University of Warsaw,37,5
+Charles University in Prague,38,5
+Charles University in Prague,39,5
+Charles University in Prague,40,5
+Charles University in Prague,41,5
+Jagiellonian University in Krakow,42,5
+Jagiellonian University in Krakow,43,5
+Adam Mickiewicz University,44,4
+Adam Mickiewicz University,45,4
+University of Wroclaw,46,4
+University of Wroclaw,47,4
+Vienna University of Technology,48,4
+Vienna University of Technology,49,4
+University of Wroclaw,50,4
+University of Wroclaw,51,4
+University of Warsaw,52,4
+University of Warsaw,53,4
+Eötvös Loránd University,54,4
+Eötvös Loránd University,55,4
+AGH University of Science and Technology,56,4
+AGH University of Science and Technology,57,4
+University of Wroclaw,58,4
+University of Wroclaw,59,4
+Masaryk University,60,4
+Masaryk University,61,4
+Jagiellonian University in Krakow,62,4
+Jagiellonian University in Krakow,63,4
+Budapest University of Technology and Economics,64,3
+Budapest University of Technology and Economics,65,3
+Comenius University,66,3
+Comenius University,67,3
+University of Wroclaw,68,3
+University of Wroclaw,69,3
+Masaryk University,70,3
+Masaryk University,71,3
+Josip Juraj Strossmayer University of Osijek,72,3
+Josip Juraj Strossmayer University of Osijek,73,3
+University of West Bohemia in Pilsen,74,3
+University of West Bohemia in Pilsen,75,3
+University of Žilina,76,3
+University of Žilina,77,3
+University of Maribor,78,2
+University of Maribor,79,2
+University of West Bohemia in Pilsen,80,2
+University of West Bohemia in Pilsen,81,2
+Charles University in Prague,82,2
+Charles University in Prague,83,2
+University of Szeged,84,2
+University of Szeged,85,2
+Czech Technical University in Prague,86,2
+Czech Technical University in Prague,87,2
+Nicolaus Copernicus University,88,2
+Nicolaus Copernicus University,89,2
+University of Ljubljana,90,2
+University of Ljubljana,91,2
+University of Ljubljana,92,2
+University of Ljubljana,93,2
+Czech Technical University in Prague,94,2
+Czech Technical University in Prague,95,2
+Czech Technical University in Prague,96,2
+Czech Technical University in Prague,97,2
+Czech Technical University in Prague,98,2
+Czech Technical University in Prague,99,2
+Eötvös Loránd University,100,1
+Eötvös Loránd University,101,1
+University of Debrecen,102,1
+University of Debrecen,103,1
+Czech Technical University in Prague,104,1
+Czech Technical University in Prague,105,1
+University of RIjeka,106,1
+University of RIjeka,107,1
+University of Ljubljana,108,1
+University of Ljubljana,109,1
+Slovak University of Technology in Bratislava,110,1
+Slovak University of Technology in Bratislava,111,1
+Nicolaus Copernicus University,112,1
+Nicolaus Copernicus University,113,1
+Slovak University of Technology in Bratislava,114,1
+Slovak University of Technology in Bratislava,115,1
+University of Szeged,116,1
+University of Szeged,117,1
+AGH University of Science and Technology,118,1
+AGH University of Science and Technology,119,1
+Warsaw University of Technology,120,1
+Warsaw University of Technology,121,1
+University of Maribor, Faculty of Electrical Engineering and Computer Science,122,1
+University of Maribor, Faculty of Electrical Engineering and Computer Science,123,1
+VŠB - Technical University of Ostrava,124,0
+Nicolaus Copernicus University,125,0
+VŠB - Technical University of Ostrava,126,0
+Matej Bel University in Banská Bystrica,127,0
+Maria Curie-Skłodowska University,128,0
+University of Primorska,129,0
+Juraj Dobrila University of Pula,130,0
+University of West Bohemia in Pilsen,131,0
+University of Debrecen,132,0
+Matej Bel University in Banská Bystrica,133,0
+Czech Technical University in Prague,134,0
+VŠB - Technical University of Ostrava,135,0
+Budapest University of Technology and Economics,136,0
+University of Žilina,137,0
+Pavol Jozef Šafárik University in Košice,138,0
+University of Žilina,139,0
+Czech Technical University in Prague,140,0
+Budapest University of Technology and Economics,141,0
+Matej Bel University in Banská Bystrica,142,0
+University of Debrecen,143,0
+University of Primorska,144,0
+Juraj Dobrila University of Pula,145,0
+University of West Bohemia in Pilsen,146,0
+Maria Curie-Skłodowska University,147,0
+Matej Bel University in Banská Bystrica,148,0
+Pavol Jozef Šafárik University in Košice,149,0
+Nicolaus Copernicus University,150,0
+VŠB - Technical University of Ostrava,151,0

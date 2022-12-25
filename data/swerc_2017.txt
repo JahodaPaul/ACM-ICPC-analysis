@@ -1,0 +1,227 @@
+École Normale Supérieure de Paris,1,9
+ETH Zürich,2,9
+Scuola Normale Superiore,3,7
+Universitat Politècnica de Catalunya,4,7
+Università della Svizzera italiana,5,7
+Technion - Israel Institute of Technology,6,7
+Universitat Politècnica de Catalunya,7,6
+Politecnico di Torino,8,6
+University of Haifa,9,6
+Ecole Polytechnique,10,6
+ETH Zürich,11,6
+École Normale Supérieure de Lyon,12,6
+Ecole Polytechnique Fédérale de Lausanne,13,6
+École Normale Supérieure de Paris,14,6
+Universidade do Porto,15,6
+Università di Pisa,16,6
+École Normale Supérieure de Paris-Saclay,17,5
+Universitat Politècnica de Catalunya,18,5
+Ecole Polytechnique Fédérale de Lausanne,19,5
+École Normale Supérieure de Paris,20,5
+Ecole Polytechnique,21,5
+Universidad de Murcia,22,5
+Università Degli Studi di Milano,23,5
+INSA de Lyon,24,5
+Université de Technologie de Compiègne,25,5
+École Normale Supérieure de Paris-Saclay,26,5
+Università di Roma - La Sapienza,27,4
+Faculdade de Ciências - Universidade de Lisboa,28,4
+University of Bologna,29,4
+Télécom Paris,30,4
+University of Verona,31,4
+INSA de Lyon,32,4
+Universidad Complutense de Madrid,33,4
+Università Degli Studi di Udine,34,4
+Instituto Superior Técnico,35,4
+École Normale Supérieure de Lyon,36,4
+Politecnico di Milano,37,4
+Universidade do Porto,38,3
+Télécom SudParis,39,3
+École Pour l'Informatique et les Techniques Avancées,40,3
+ISIMA,41,3
+Télécom Paris,42,3
+Politecnico di Milano,43,3
+Paris-Sud University,44,3
+Università di Roma - La Sapienza,45,3
+University of Coimbra,46,3
+Universitat Politècnica de València,47,3
+Universitat Politècnica de València,48,3
+Artois University,49,3
+Università di Trento,50,3
+INSA de Lyon,51,3
+Ecole Centrale de Lyon,52,3
+Università Degli Studi di Udine,53,3
+University of Bologna,54,3
+Universidad Autónoma de Madrid,55,3
+Universidad de Murcia,56,3
+Holon Institute of Technology,57,3
+University of the Basque Country,58,3
+Institut National des Sciences Appliquées de Rouen,59,3
+University of the Basque Country,60,3
+Universitat Pompeu Fabra,61,3
+Universidad Rey Juan Carlos,62,3
+Ecole Nationale Supérieure des Mines de Saint-Etienne,63,3
+École Pour l'Informatique et les Techniques Avancées,64,2
+The College of Management Academic Studies,65,2
+Universidad Autónoma de Madrid,66,2
+University of Valladolid,67,2
+Universidad Complutense de Madrid,68,2
+Universidad Rey Juan Carlos,69,2
+Université de Montpellier,70,2
+Université de Technologie de Compiègne,71,2
+Institut National des Sciences Appliquées de Rouen,72,2
+Universidad Rey Juan Carlos,73,2
+Ecole Centrale de Lille,74,2
+Université Paris Diderot - Paris 7,75,1
+University of Valladolid,76,0
+Université de Montpellier,77,0
+INSA de Lyon,78,0
+Télécom Paris,79,0
+Universidade do Porto,80,0
+Universidad Rey Juan Carlos,81,0
+Université Paris Diderot - Paris 7,82,0
+The College of Management Academic Studies,83,0
+Università di Trento,84,0
+École Pour l'Informatique et les Techniques Avancées,85,0
+Universidad Autónoma de Madrid,86,0
+Università di Pisa,87,0
+University of Haifa,88,0
+Ecole Polytechnique Fédérale de Lausanne,89,0
+Universitat Politècnica de Catalunya,90,0
+Instituto Superior Técnico,91,0
+Faculdade de Ciências - Universidade de Lisboa,92,0
+INSA de Lyon,93,0
+Universidad Complutense de Madrid,94,0
+Institut National des Sciences Appliquées de Rouen,95,0
+Télécom Paris,96,0
+Ecole Centrale de Lille,97,0
+University of Coimbra,98,0
+Universidad Autónoma de Madrid,99,0
+École Pour l'Informatique et les Techniques Avancées,100,0
+Télécom SudParis,101,0
+Universidad Rey Juan Carlos,102,0
+Université Paris Diderot - Paris 7,103,0
+Université de Technologie de Compiègne,104,0
+University of Bologna,105,0
+Università Degli Studi di Udine,106,0
+Artois University,107,0
+Politecnico di Milano,108,0
+Universidad Complutense de Madrid,109,0
+Paris-Sud University,110,0
+Ecole Centrale de Lyon,111,0
+École Normale Supérieure de Paris,112,0
+École Normale Supérieure de Paris,113,0
+Ecole Polytechnique,114,0
+Universidad de Murcia,115,0
+University of Bologna,116,0
+Università di Roma - La Sapienza,117,0
+University of Verona,118,0
+ISIMA,119,0
+Università di Roma - La Sapienza,120,0
+Ecole Nationale Supérieure des Mines de Saint-Etienne,121,0
+Universidad Rey Juan Carlos,122,0
+Université de Montpellier,123,0
+INSA de Lyon,124,0
+Universitat Politècnica de València,125,0
+University of Valladolid,126,0
+Holon Institute of Technology,127,0
+University of the Basque Country,128,0
+Universidad de Murcia,129,0
+University of the Basque Country,130,0
+Universitat Pompeu Fabra,131,0
+Universidade do Porto,132,0
+École Normale Supérieure de Paris-Saclay,133,0
+Ecole Polytechnique,134,0
+École Normale Supérieure de Lyon,135,0
+Université de Technologie de Compiègne,136,0
+Politecnico di Milano,137,0
+Università Degli Studi di Udine,138,0
+École Normale Supérieure de Paris-Saclay,139,0
+Institut National des Sciences Appliquées de Rouen,140,0
+Universitat Politècnica de València,141,0
+Università Degli Studi di Milano,142,0
+Università della Svizzera italiana,143,0
+Scuola Normale Superiore,144,0
+ETH Zürich,145,0
+Universitat Politècnica de Catalunya,146,0
+Technion - Israel Institute of Technology,147,0
+Politecnico di Torino,148,0
+ETH Zürich,149,0
+École Normale Supérieure de Paris,150,0
+Universitat Politècnica de Catalunya,151,0
+École Normale Supérieure de Lyon,152,0
+Ecole Polytechnique Fédérale de Lausanne,153,0
+ETH Zürich,154,0
+Télécom Paris,155,0
+Politecnico di Milano,156,0
+École Normale Supérieure de Paris,157,0
+École Normale Supérieure de Paris,158,0
+Faculdade de Ciências - Universidade de Lisboa,159,0
+Université de Technologie de Compiègne,160,0
+Università Degli Studi di Udine,161,0
+INSA de Lyon,162,0
+Universidade do Porto,163,0
+Ecole Polytechnique Fédérale de Lausanne,164,0
+Artois University,165,0
+ISIMA,166,0
+Universidad de Murcia,167,0
+Università Degli Studi di Udine,168,0
+Institut National des Sciences Appliquées de Rouen,169,0
+Université Paris Diderot - Paris 7,170,0
+University of Bologna,171,0
+Universidad Autónoma de Madrid,172,0
+University of the Basque Country,173,0
+Università di Trento,174,0
+University of Haifa,175,0
+Università Degli Studi di Milano,176,0
+Università della Svizzera italiana,177,0
+University of Verona,178,0
+École Normale Supérieure de Paris,179,0
+École Normale Supérieure de Paris-Saclay,180,0
+Università di Pisa,181,0
+Scuola Normale Superiore,182,0
+Universitat Politècnica de Catalunya,183,0
+École Normale Supérieure de Lyon,184,0
+Ecole Polytechnique,185,0
+Universitat Politècnica de Catalunya,186,0
+Università di Roma - La Sapienza,187,0
+Ecole Polytechnique,188,0
+INSA de Lyon,189,0
+University of Bologna,190,0
+École Normale Supérieure de Lyon,191,0
+Instituto Superior Técnico,192,0
+Politecnico di Torino,193,0
+Universidad Complutense de Madrid,194,0
+Universitat Politècnica de Catalunya,195,0
+Ecole Polytechnique Fédérale de Lausanne,196,0
+ETH Zürich,197,0
+Universidad de Murcia,198,0
+École Normale Supérieure de Paris-Saclay,199,0
+Holon Institute of Technology,200,0
+Universitat Pompeu Fabra,201,0
+Université de Technologie de Compiègne,202,0
+Technion - Israel Institute of Technology,203,0
+INSA de Lyon,204,0
+Universitat Politècnica de València,205,0
+University of Coimbra,206,0
+Universidad Rey Juan Carlos,207,0
+University of the Basque Country,208,0
+Università di Roma - La Sapienza,209,0
+Ecole Nationale Supérieure des Mines de Saint-Etienne,210,0
+Ecole Centrale de Lyon,211,0
+Ecole Centrale de Lille,212,0
+Universidad Rey Juan Carlos,213,0
+Université Paris Diderot - Paris 7,214,0
+Universitat Politècnica de València,215,0
+Universidad Rey Juan Carlos,216,0
+Universidade do Porto,217,0
+The College of Management Academic Studies,218,0
+Politecnico di Milano,219,0
+Télécom Paris,220,0
+Institut National des Sciences Appliquées de Rouen,221,0
+École Pour l'Informatique et les Techniques Avancées,222,0
+École Pour l'Informatique et les Techniques Avancées,223,0
+Universidad Complutense de Madrid,224,0
+Universidad Autónoma de Madrid,225,0
+Paris-Sud University,226,0
+Télécom SudParis,227,0

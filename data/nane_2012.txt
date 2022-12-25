@@ -1,0 +1,23 @@
+Massachusetts Institute of Technology,1,6
+University of Connecticut,2,6
+Rochester Institute of Technology,3,5
+McGill University,4,4
+Colgate University,5,4
+University of Massachusetts - Amherst,6,4
+University of New Brunswick at Fredericton,7,4
+Harvard University,8,3
+Université de Moncton,9,1
+University of New Brunswick Saint John,10,1
+Trinity College,11,0
+Tufts University,12,0
+McGill University,13,0
+Rochester Institute of Technology,14,0
+Université de Moncton,15,0
+Colgate University,16,0
+University of Connecticut,17,0
+University of Massachusetts - Amherst,18,0
+University of New Brunswick at Fredericton,19,0
+Tufts University,20,0
+Trinity College,21,0
+University of New Brunswick Saint John,22,0
+Harvard University,23,0

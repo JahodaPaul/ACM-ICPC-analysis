@@ -1,0 +1,47 @@
+Massachusetts Institute of Technology,1,18
+Massachusetts Institute of Technology,2,18
+Massachusetts Institute of Technology,3,18
+McGill University,4,16
+Northeastern University,5,12
+University of Rochester,6,11
+Harvard University,7,11
+CICS UMass-Amherst,8,11
+Massachusetts Institute of Technology,9,11
+Mount Allison University,10,9
+McGill University,11,9
+Harvard University,12,9
+Northeastern University,13,7
+University of Rochester,14,6
+University of Prince Edward Island,15,6
+McGill University,16,6
+Rochester Institute of Technology,17,5
+Rochester Institute of Technology,18,5
+Rochester Institute of Technology,19,5
+University of Prince Edward Island,20,5
+Middlebury College,21,5
+Rochester Institute of Technology,22,4
+University of Massachusetts - Boston,23,4
+Brandeis University,24,4
+McGill University,25,4
+St. Lawrence University,26,4
+CICS UMass-Amherst,27,4
+University of Rochester,28,4
+University of Rochester,29,4
+Boston University,30,4
+Saint Mary's University,31,3
+McGill University,32,3
+McGill University,33,3
+Mount Allison University,34,3
+Hamilton College,35,3
+St. Lawrence University,36,3
+Siena College,37,3
+Brandeis University,38,3
+University of Prince Edward Island,39,2
+Hamilton College,40,2
+Middlebury College,41,2
+Rochester Institute of Technology,42,1
+Brandeis University,43,1
+Providence College,44,1
+Brandeis University,45,0
+Dalhousie University,46,0
+University of Rochester,47,0

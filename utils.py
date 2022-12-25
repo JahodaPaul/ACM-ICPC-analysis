@@ -126,6 +126,30 @@ def getTable(contestID):
         table.append([institution,place,problemSolved])
         
     return table
+    
+def saveData(table, path):
+    with open(path, 'w') as f:
+        for i in range(len(table)):
+            res = str(table[i][0]) + ',' + str(table[i][1]) + ',' + str(table[i][2])+'\n'
+            f.write(res)
+
+def loadData(path):
+    with open(path,'r') as f:
+        lines = [item.rstrip('\n').split(',') for item in f]
+    
+    table = []
+    for line in lines:
+        if len(line) > 3:
+            uni_name = ''
+            for i in range(len(line)-2):
+                if i != 0:
+                    uni_name += ','
+                uni_name += line[i]
+        else:
+            uni_name = line[0]
+        table.append([uni_name,float(line[-2]),float(line[-1])])
+    return table  
+
 
 def PrintUniRankings(rankings, verbose):
     arr = []

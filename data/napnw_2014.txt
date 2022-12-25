@@ -1,0 +1,138 @@
+University of California, Berkeley,1,11
+University of California, Berkeley,2,10
+Stanford University,3,10
+University of California, Berkeley,4,10
+The University of British Columbia,5,8
+University of Washington,6,8
+Stanford University,7,8
+University of Oregon,8,7
+The University of British Columbia,9,6
+Stanford University,10,6
+University of California, Berkeley,11,5
+University of Washington,12,4
+University of Washington,13,4
+Stanford University,14,4
+The University of British Columbia,15,4
+The University of British Columbia,16,4
+University of Washington,17,4
+Simon Fraser University,18,4
+The University of British Columbia,19,3
+University of Northern British Columbia,20,3
+Western Washington University,21,3
+University of Northern British Columbia,22,3
+Western Washington University,23,3
+Simon Fraser University,24,3
+Hawaii Pacific University,25,3
+Simon Fraser University,26,3
+University of Victoria,27,3
+University of Oregon,28,3
+Simon Fraser University,29,3
+Pacific Lutheran University,30,2
+University of Oregon,31,2
+Gonzaga University,32,2
+Linfield College,33,2
+Eastern Washington University,34,2
+University of San Francisco,35,2
+University of Portland,36,2
+Pacific Lutheran University,37,2
+California State University - Sacramento,38,2
+Oregon State University,39,2
+University of Idaho,40,2
+Whitworth University,41,2
+University of Idaho,42,2
+Hawaii Pacific University,43,2
+Pacific Lutheran University,44,2
+University of Washington Tacoma,45,2
+Hawaii Pacific University,46,2
+George Fox University,47,2
+Gonzaga University,48,2
+Eastern Washington University,49,2
+University of San Francisco,50,2
+University of the Pacific,51,2
+Brigham Young University - Hawaii,52,2
+Hawaii Pacific University,53,2
+Brigham Young University - Hawaii,54,2
+Eastern Washington University,55,2
+Gonzaga University,56,2
+Simon Fraser University,57,2
+California State University - Sacramento,58,2
+Oregon State University,59,2
+University of Victoria,60,2
+The University of British Columbia,61,2
+Western Washington University,62,2
+Brigham Young University - Hawaii,63,1
+Hawaii Pacific University,64,1
+University of Portland,65,1
+University of San Francisco,66,1
+University of Portland,67,1
+Hawaii Pacific University,68,1
+Lewis & Clark College,69,1
+Gonzaga University,70,1
+University of Washington,71,1
+Linfield College,72,1
+Diablo Valley College,73,1
+Willamette University,74,1
+California State University - Sacramento,75,1
+Diablo Valley College,76,1
+Pacific Lutheran University,77,1
+Linfield College,78,1
+Whitworth University,79,1
+George Fox University,80,1
+Portland State University,81,1
+University of Washington Tacoma,82,1
+University of Puget Sound,83,1
+California State University - Chico,84,1
+Gonzaga University,85,1
+Whitworth University,86,1
+Pacific Lutheran University,87,1
+University of Washington Tacoma,88,1
+University of Portland,89,1
+University of Hawaii - Hilo,90,1
+University of Washington Tacoma,91,1
+George Fox University,92,1
+George Fox University,93,0
+California State University - Sacramento,94,0
+Whitworth University,95,0
+California State University - Chico,96,0
+University of Idaho,97,0
+University of the Pacific,98,0
+University of Victoria,99,0
+University of Idaho,100,0
+Willamette University,101,0
+Lewis & Clark College,102,0
+Eastern Washington University,103,0
+Hawaii Pacific University,104,0
+Washington State University,105,0
+Oregon State University,106,0
+California State University - Chico,107,0
+Stanford University,108,0
+George Fox University,109,0
+Willamette University,110,0
+Linfield College,111,0
+Eastern Washington University,112,0
+Willamette University,113,0
+Brigham Young University - Hawaii,114,0
+Linfield College,115,0
+University of Puget Sound,116,0
+California State University - Sacramento,117,0
+Washington State University,118,0
+Whitworth University,119,0
+Thompson Rivers University,120,0
+University of San Francisco,121,0
+California State University - Chico,122,0
+Gonzaga University,123,0
+University of Washington Tacoma,124,0
+Eastern Washington University,125,0
+Diablo Valley College,126,0
+Washington State University,127,0
+University of Hawaii - Hilo,128,0
+Brigham Young University - Hawaii,129,0
+Diablo Valley College,130,0
+University of Victoria,131,0
+Washington State University,132,0
+Thompson Rivers University,133,0
+Diablo Valley College,134,0
+University of San Francisco,135,0
+George Fox University,136,0
+University of Hawaii - Hilo,137,0
+University of Victoria,138,0

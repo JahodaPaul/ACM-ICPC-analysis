@@ -1,0 +1,118 @@
+Nizhny Novgorod State University,1,12
+Seoul National University,2,11
+St. Petersburg ITMO University,3,11
+Moscow Institute of Physics and Technology,4,11
+University of Wroclaw,5,11
+University of Cambridge,6,11
+Belarusian State University,7,11
+University of Bucharest,8,10
+Massachusetts Institute of Technology,9,10
+Kharkiv National University of Radio Electronics,10,10
+University of Illinois at Urbana-Champaign,11,10
+National Research University Higher School of Economics,12,9
+Utrecht - Leiden University,13,9
+University of Warsaw,14,9
+St. Petersburg State University,15,9
+Harvard University,16,9
+University of Central Florida,17,8
+Korea University,18,8
+St. Petersburg Campus of Higher School of Economics,19,8
+National Taiwan University,20,8
+Universidad de Buenos Aires - FCEN,21,8
+Moscow State University,22,8
+University of Wisconsin-Madison,23,8
+Ecole Polytechnique,24,7
+Amirkabir University of Technology,25,7
+Indraprastha Institute of Information Technology,26,7
+Bangladesh University of Engineering and Technology,27,7
+Universitas Indonesia,28,7
+University of Aizu,29,7
+The University of British Columbia,30,7
+University of Latvia,31,7
+Faculty of Computer Science, Belgrade ,32,7
+ETH Zürich,33,6
+Indian Institute of Technology - Delhi,34,6
+Sharif University of Technology,35,6
+Indian Institute of Technology - Kanpur,36,6
+Indian Institute of Technology - Bombay,37,6
+University of Dhaka,38,6
+Yonsei University,39,6
+Universidad Nacional de Córdoba - FaMAF,40,6
+Innopolis University,41,6
+Technische Universität München,42,6
+Jagiellonian University in Krakow,43,6
+Saratov State University,44,6
+Princess Sumaya University for Technology,45,6
+Free University of Tbilisi,46,5
+Perm State University,47,5
+Virginia Tech,48,5
+Stanford University,49,5
+École Normale Supérieure de Paris,50,5
+University of Rochester,51,5
+International Institute of Information Technology - Hyderabad,52,5
+Universidade Estadual de Campinas,53,5
+Belarusian State University of Informatics and Radioelectronics,54,5
+Indian Institute of Technology - Kharagpur,55,5
+Kazan (Volga Region) Federal University,56,5
+Universidade Federal de Minas Gerais,57,5
+Universidade de Brasília,58,5
+BITS-Pilani, Hyderabad Campus,59,1.0
+Universidad Icesi,60,1.0
+University of Asia Pacific,61,1.0
+Universidad de La Habana,62,1.0
+Universidad de Oriente - Sede Antonio Maceo,63,1.0
+Universidad de Guanajuato - DCNE,64,1.0
+Universidad de Costa Rica,65,1.0
+Universidad Nacional de Colombia - Bogotá,66,1.0
+Universidad Simón Bolívar,67,1.0
+Universidad de Chile,68,1.0
+Universidade de São Paulo,69,1.0
+Universidade Federal de Pernambuco,70,1.0
+Universidade de São Paulo - Campus de São Carlos,71,1.0
+Ain Shams University - Faculty of Computer and Information Sciences,72,1.0
+Syrian Virtual University,73,1.0
+Damascus University,74,1.0
+Arab Academy for Science and Technology - Alexandria,75,1.0
+Cairo University - Faculty of Computers and Artificial Intelligence,76,1.0
+The University of Jordan,77,1.0
+Alexandria University - Faculty of Engineering,78,1.0
+German University in Cairo,79,1.0
+Al-Baath University,80,1.0
+University of Utah,81,1.0
+International IT University,82,1.0
+Yerevan State University,83,1.0
+NU-FAST Karachi,84,1.0
+Indian Institute of Technology - Varanasi,85,1.0
+Indian Institute of Technology - Roorkee,86,1.0
+Indian Institute of Technology - Indore,87,1.0
+Avicenna University,88,1.0
+The University of Texas at Dallas,89,1.0
+Carnegie Mellon University,90,1.0
+Purdue University,91,1.0
+Universidade Federal do Ceará - Campus Quixadá,92,1.0
+Indian Institute of Technology - Guwahati,93,1.0
+Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar,94,1.0
+National Research Nuclear University MEPhI (Moscow Engineering Physics Institute),95,1.0
+Institute of Computing - Federal University of Amazonas,96,1.0
+University of Southern California,97,1.0
+Universidad Nacional del Sur,98,1.0
+Tishreen University,99,1.0
+Duke University,100,1.0
+Netaji Subhash University Of Technology,101,1.0
+Moscow Aviation Institute,102,1.0
+Università Degli Studi di Milano,103,1.0
+Bilkent University,104,1.0
+Izhevsk State Technical University,105,1.0
+Instituto de Informática - UFG,106,1.0
+Institut National des Sciences Appliquées et de Technologie,107,1.0
+University of Tehran,108,1.0
+Higher Institute for Applied Sciences and Technology,109,1.0
+American University - Central Asia,110,1.0
+Indian Institute of Technology (ISM), Dhanbad,111,1.0
+American University of Beirut,112,1.0
+Sogang University,113,1.0
+Universidad Panamericana Campus Bonaterra,114,1.0
+Indian Institute of Technology - Patna,115,1.0
+Volgograd State Technical University,116,1.0
+Ulsan National Institute of Science and Technology,117,1.0
+Kyungpook National University,118,1.0

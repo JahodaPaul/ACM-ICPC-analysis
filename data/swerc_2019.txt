@@ -1,0 +1,190 @@
+Ecole Polytechnique,1,11
+Ecole Polytechnique,2,11
+Universitat Politècnica de Catalunya,3,11
+Universitat Politècnica de Catalunya,4,11
+ETH Zürich,5,10
+ETH Zürich,6,10
+Ecole Polytechnique,7,10
+Ecole Polytechnique,8,10
+École Normale Supérieure de Paris,9,10
+École Normale Supérieure de Paris,10,10
+Università Degli Studi di Milano,11,9
+Università Degli Studi di Milano,12,9
+ETH Zürich,13,9
+ETH Zürich,14,9
+Instituto Superior Técnico,15,8
+Instituto Superior Técnico,16,8
+Politecnico di Milano,17,8
+Politecnico di Milano,18,8
+Universitat Politècnica de Catalunya,19,8
+Universitat Politècnica de Catalunya,20,8
+Technion - Israel Institute of Technology,21,7
+Technion - Israel Institute of Technology,22,7
+University of Bologna,23,7
+University of Bologna,24,7
+Università di Roma - La Sapienza,25,7
+Università di Roma - La Sapienza,26,7
+University of Padova,27,7
+University of Padova,28,7
+Faculdade de Ciências - Universidade de Lisboa,29,7
+Faculdade de Ciências - Universidade de Lisboa,30,7
+Scuola Normale Superiore,31,6
+Scuola Normale Superiore,32,6
+École Normale Supérieure de Paris,33,6
+École Normale Supérieure de Paris,34,6
+Universidad de Murcia,35,6
+Universidad de Murcia,36,6
+Universidad Complutense de Madrid,37,6
+Universidad Complutense de Madrid,38,6
+Ecole Polytechnique,39,6
+Ecole Polytechnique,40,6
+University of Rennes 1,41,6
+University of Rennes 1,42,6
+Universitat Politècnica de Catalunya,43,6
+Universitat Politècnica de Catalunya,44,6
+University of Haifa,45,6
+University of Haifa,46,6
+Università di Trento,47,6
+Università di Trento,48,6
+Scuola Normale Superiore,49,6
+Scuola Normale Superiore,50,6
+Universidad Complutense de Madrid,51,5
+Universidad Complutense de Madrid,52,5
+INSA de Lyon,53,5
+INSA de Lyon,54,5
+Libera Università Internazionale degli Studi Sociali Guido Carli,55,5
+Libera Università Internazionale degli Studi Sociali Guido Carli,56,5
+Scuola Normale Superiore,57,5
+Scuola Normale Superiore,58,5
+Télécom Paris,59,5
+Télécom Paris,60,5
+Ecole Polytechnique Fédérale de Lausanne,61,5
+Ecole Polytechnique Fédérale de Lausanne,62,5
+École Normale Supérieure de Paris-Saclay,63,5
+École Normale Supérieure de Paris-Saclay,64,5
+Universidade do Porto,65,5
+Universidade do Porto,66,5
+Università di Trento,67,5
+Università di Trento,68,5
+University of Verona,69,5
+University of Verona,70,5
+INSA de Lyon,71,5
+INSA de Lyon,72,5
+Université Paris Diderot - Paris 7,73,5
+Université Paris Diderot - Paris 7,74,5
+Università di Trento,75,5
+Università di Trento,76,5
+École Normale Supérieure de Lyon,77,4
+École Normale Supérieure de Lyon,78,4
+Faculdade de Engenharia da Universidade do Porto,79,4
+Faculdade de Engenharia da Universidade do Porto,80,4
+École Normale Supérieure de Lyon,81,4
+École Normale Supérieure de Lyon,82,4
+Université Paris Diderot - Paris 7,83,4
+Université Paris Diderot - Paris 7,84,4
+Paris-Sud University,85,4
+Paris-Sud University,86,4
+INSA de Lyon,87,4
+INSA de Lyon,88,4
+Université de Montpellier,89,4
+Université de Montpellier,90,4
+Politecnico di Milano,91,4
+Politecnico di Milano,92,4
+Technion - Israel Institute of Technology,93,4
+Technion - Israel Institute of Technology,94,4
+Télécom Paris,95,4
+Télécom Paris,96,4
+ENSTA Paris,97,4
+ENSTA Paris,98,4
+École Normale Supérieure de Lyon,99,4
+École Normale Supérieure de Lyon,100,4
+University of Bologna,101,4
+University of Bologna,102,4
+École Normale Supérieure de Rennes,103,4
+École Normale Supérieure de Rennes,104,4
+Universidade do Porto,105,4
+Universidade do Porto,106,4
+University of Rennes 1,107,4
+University of Rennes 1,108,4
+Universidad Rey Juan Carlos,109,4
+Universidad Rey Juan Carlos,110,4
+École Nationale Supérieure d'électrotechnique, d'électronique, d'informatique, d'hydraulique et des Télécommunications,111,4
+École Nationale Supérieure d'électrotechnique, d'électronique, d'informatique, d'hydraulique et des Télécommunications,112,4
+Polytech Nice Sophia,113,4
+Polytech Nice Sophia,114,4
+Università Degli Studi di Milano,115,4
+Università Degli Studi di Milano,116,4
+University of Bologna,117,4
+University of Bologna,118,4
+Universidad Autónoma de Madrid,119,4
+Universidad Autónoma de Madrid,120,4
+Università di Roma - La Sapienza,121,4
+Università di Roma - La Sapienza,122,4
+École Normale Supérieure de Paris-Saclay,123,4
+École Normale Supérieure de Paris-Saclay,124,4
+Università degli Studi di Genova,125,4
+Università degli Studi di Genova,126,4
+École Normale Supérieure de Paris-Saclay,127,4
+École Normale Supérieure de Paris-Saclay,128,4
+Universitat Pompeu Fabra,129,4
+Universitat Pompeu Fabra,130,4
+Politecnico di Milano,131,4
+Politecnico di Milano,132,4
+Universidad Rey Juan Carlos,133,4
+Universidad Rey Juan Carlos,134,4
+Paris-Sud University,135,4
+Paris-Sud University,136,4
+Université Paris 8 — Vincennes à Saint-Denis,137,4
+Université Paris 8 — Vincennes à Saint-Denis,138,4
+École Pour l'Informatique et les Techniques Avancées,139,3
+École Pour l'Informatique et les Techniques Avancées,140,3
+Télécom SudParis,141,3
+Télécom SudParis,142,3
+CentraleSupélec,143,3
+CentraleSupélec,144,3
+CentraleSupélec,145,3
+CentraleSupélec,146,3
+ENSTA Paris,147,3
+ENSTA Paris,148,3
+Artois University,149,3
+Artois University,150,3
+Sorbonne Université,151,3
+Sorbonne Université,152,3
+Polytech Nice Sophia,153,3
+Polytech Nice Sophia,154,3
+University of Padova,155,3
+University of Padova,156,3
+ENSTA Paris,157,3
+ENSTA Paris,158,3
+Universidad de Murcia,159,3
+Universidad de Murcia,160,3
+Universidad Autónoma de Madrid,161,3
+Universidad Autónoma de Madrid,162,3
+Ecole Centrale de Lyon,163,3
+Ecole Centrale de Lyon,164,3
+Universitat Politècnica de València,165,3
+Universitat Politècnica de València,166,3
+Ecole Centrale de Lyon,167,3
+Ecole Centrale de Lyon,168,3
+Universitat Politècnica de València,169,3
+Universitat Politècnica de València,170,3
+Ca' Foscari University of Venice,171,3
+Ca' Foscari University of Venice,172,3
+EFREI Paris,173,3
+EFREI Paris,174,3
+Universidade da Beira Interior,175,3
+Universidade da Beira Interior,176,3
+Sorbonne Université,177,3
+Sorbonne Université,178,3
+Artois University,179,3
+Artois University,180,3
+Université Paris Diderot - Paris 7,181,3
+Université Paris Diderot - Paris 7,182,3
+Universidad Rey Juan Carlos,183,3
+Universidad Rey Juan Carlos,184,3
+Université Grenoble Alpes,185,3
+Université Grenoble Alpes,186,3
+University of Verona,187,3
+University of Verona,188,3
+Université Paris 8 — Vincennes à Saint-Denis,189,3
+Université Paris 8 — Vincennes à Saint-Denis,190,3

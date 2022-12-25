@@ -1,0 +1,166 @@
+University of California, Berkeley,1,8
+Stanford University,2,8
+The University of British Columbia,3,7
+University of Washington,4,7
+University of Washington,5,7
+University of Washington,6,6
+University of California, Berkeley,7,6
+The University of British Columbia,8,6
+Simon Fraser University,9,6
+University Of British Columbia Okanagan,10,5
+The University of British Columbia,11,5
+California State University - Sacramento,12,4
+The University of British Columbia,13,4
+University of Washington,14,4
+Stanford University,15,3
+Hawaii Pacific University,16,3
+University of California Davis,17,3
+University of Victoria,18,3
+Stanford University,19,3
+George Fox University,20,3
+University of California, Berkeley,21,3
+Oregon State University,22,3
+George Fox University,23,3
+University of Portland,24,3
+The University of British Columbia,25,3
+University of Washington,26,3
+Whitworth University,27,3
+George Fox University,28,3
+Stanford University,29,3
+Lewis & Clark College,30,3
+Pacific Lutheran University,31,3
+Eastern Washington University,32,3
+Whitworth University,33,3
+University of Washington,34,2
+University of Victoria,35,2
+University of Washington Tacoma,36,2
+Thompson Rivers University,37,2
+Oregon State University,38,2
+Thompson Rivers University,39,2
+Pacific University,40,2
+University of Oregon,41,2
+Whitworth University,42,2
+University of Washington Tacoma,43,2
+University of Nevada, Reno,44,2
+California State University - Chico,45,2
+University of Hawaii - Hilo,46,2
+Western Washington University,47,2
+University of Puget Sound,48,2
+University of Victoria,49,2
+Seattle University,50,2
+California State University - Chico,51,2
+University of the Pacific,52,2
+Whitworth University,53,2
+University of Washington Tacoma,54,2
+Eastern Washington University,55,2
+Lewis & Clark College,56,2
+California State University - Sacramento,57,2
+University of Puget Sound,58,2
+University of Nevada, Reno,59,2
+University of Portland,60,2
+University of Hawaii - Manoa,61,2
+California State University - Chico,62,1
+Gonzaga University,63,1
+California State University - Sacramento,64,1
+California State University - Chico,65,1
+Brigham Young University - Hawaii,66,0
+California State University - Chico,67,0
+Simon Fraser University,68,0
+Thompson Rivers University,69,0
+Simon Fraser University,70,0
+Cogswell College,71,0
+The University of British Columbia,72,9
+University of California, Berkeley,73,9
+The University of British Columbia,74,9
+Simon Fraser University,75,8
+Simon Fraser University,76,8
+De Anza College,77,8
+Oregon State University,78,8
+University of Portland,79,8
+Simon Fraser University,80,7
+Eastern Washington University,81,7
+University of Victoria,82,7
+Simon Fraser University,83,7
+University of Northern British Columbia,84,7
+University of California Davis,85,7
+The University of British Columbia,86,7
+University of California Davis,87,6
+Hawaii Pacific University,88,6
+California State University, Monterey Bay,89,6
+Okanagan College,90,6
+Linfield College,91,6
+California State University, Monterey Bay,92,6
+University of Washington Tacoma,93,6
+California State University, Monterey Bay,94,5
+California State University - Sacramento,95,5
+Western Washington University,96,5
+Pacific University,97,5
+Okanagan College,98,5
+California State University, Monterey Bay,99,5
+California State University, Monterey Bay,100,5
+University of Victoria,101,5
+University of Portland,102,5
+Western Washington University,103,5
+University of Northern British Columbia,104,4
+Eastern Washington University,105,4
+De Anza College,106,4
+University of Washington Tacoma,107,4
+University of the Pacific,108,4
+Eastern Washington University,109,4
+Hawaii Pacific University,110,4
+Whitworth University,111,4
+Lewis & Clark College,112,4
+Lewis & Clark College,113,4
+Eastern Washington University,114,4
+Western Washington University,115,4
+California State University - Sacramento,116,4
+Eastern Washington University,117,4
+George Fox University,118,3
+Simon Fraser University,119,3
+Linfield College,120,3
+University of Puget Sound,121,3
+University of Portland,122,3
+Pacific University,123,3
+Eastern Washington University,124,3
+California State University, Monterey Bay,125,3
+University of Hawaii - Manoa,126,3
+Brigham Young University - Hawaii,127,3
+Cogswell College,128,3
+Eastern Washington University,129,3
+Eastern Washington University,130,3
+Hawaii Pacific University,131,2
+Brigham Young University - Hawaii,132,2
+Brigham Young University - Hawaii,133,2
+University of Washington Tacoma,134,2
+Hawaii Pacific University,135,2
+University of Idaho,136,2
+Cogswell College,137,2
+University of Puget Sound,138,2
+Eastern Washington University,139,2
+Gonzaga University,140,2
+Brigham Young University - Hawaii,141,2
+Eastern Washington University,142,2
+University of Washington Tacoma,143,2
+Linfield College,144,2
+Hawaii Pacific University,145,2
+Pacific University,146,2
+University of the Pacific,147,2
+George Fox University,148,2
+Pacific University,149,2
+University of Hawaii - Manoa,150,2
+Brigham Young University - Hawaii,151,1
+University of Idaho,152,1
+Pacific University,153,1
+Gonzaga University,154,1
+California State University, Monterey Bay,155,1
+Brigham Young University - Hawaii,156,1
+Hawaii Pacific University,157,0
+University of Hawaii - Hilo,158,0
+Hawaii Pacific University,159,0
+University Of British Columbia Okanagan,160,0
+Hawaii Pacific University,161,0
+University Of British Columbia Okanagan,162,0
+Seattle University,163,0
+University of Idaho,164,0
+University of Idaho,165,0
+University of the Pacific,166,0

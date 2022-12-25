@@ -1,0 +1,51 @@
+Massachusetts Institute of Technology,1,12
+Massachusetts Institute of Technology,2,12
+Massachusetts Institute of Technology,3,12
+Massachusetts Institute of Technology,4,11
+Harvard University,5,11
+Massachusetts Institute of Technology,6,11
+Massachusetts Institute of Technology,7,10
+Massachusetts Institute of Technology,8,8
+University of Rochester,9,8
+Northeastern University,10,8
+McGill University,11,7
+Massachusetts Institute of Technology,12,6
+Harvard University,13,6
+Northeastern University,14,5
+CICS UMass-Amherst,15,5
+Rensselaer Polytechnic Institute,16,5
+Brown University,17,4
+University of Rochester,18,4
+Northeastern University,19,4
+CICS UMass-Amherst,20,4
+McGill University,21,4
+Mount Allison University,22,3
+CICS UMass-Amherst,23,3
+McGill University,24,3
+Hamilton College,25,3
+Rochester Institute of Technology,26,3
+Mount Allison University,27,3
+State University of New York at Buffalo,28,2
+Northeastern University,29,2
+University of New Brunswick Saint John,30,2
+St. Francis Xavier University,31,2
+Rochester Institute of Technology,32,2
+University of New Brunswick Saint John,33,2
+Mount Allison University,34,2
+McGill University,35,2
+St. Francis Xavier University,36,2
+Rochester Institute of Technology,37,2
+McGill University,38,2
+St. Francis Xavier University,39,1
+McGill University,40,1
+McGill University,41,1
+McGill University,42,1
+University of New Brunswick Saint John,43,1
+McGill University,44,1
+Acadia University,45,1
+Bridgewater State College,46,1
+Hamilton College,47,1
+St. Francis Xavier University,48,0
+McGill University,49,0
+St. Francis Xavier University,50,0
+Northeastern University,51,0

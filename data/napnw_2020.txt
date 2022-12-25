@@ -1,0 +1,210 @@
+De Anza College,1,17
+De Anza College,2,17
+The University of British Columbia,3,15
+The University of British Columbia,4,15
+The University of British Columbia,5,13
+The University of British Columbia,6,13
+University of Washington,7,13
+University of Washington,8,13
+University of California, Berkeley,9,12
+University of California, Berkeley,10,12
+Stanford University,11,12
+Stanford University,12,12
+Simon Fraser University,13,11
+Simon Fraser University,14,11
+University of Washington,15,10
+University of Washington,16,10
+University Of British Columbia Okanagan,17,10
+University Of British Columbia Okanagan,18,10
+Stanford University,19,9
+Stanford University,20,9
+University of California, Berkeley,21,9
+University of California, Berkeley,22,9
+University of Washington,23,9
+University of Washington,24,9
+The University of British Columbia,25,8
+The University of British Columbia,26,8
+DigiPen Institute of Technology,27,8
+DigiPen Institute of Technology,28,8
+University of Washington,29,8
+University of Washington,30,8
+University of California, Berkeley,31,7
+University of California, Berkeley,32,7
+The University of British Columbia,33,7
+The University of British Columbia,34,7
+The University of British Columbia,35,6
+The University of British Columbia,36,6
+Simon Fraser University,37,6
+Simon Fraser University,38,6
+San Jose State University,39,5
+San Jose State University,40,5
+University of Washington,41,5
+University of Washington,42,5
+University of Washington,43,5
+University of Washington,44,5
+Simon Fraser University,45,4
+Simon Fraser University,46,4
+Whitworth University,47,4
+Whitworth University,48,4
+University of Washington,49,4
+University of Washington,50,4
+San Jose State University,51,4
+San Jose State University,52,4
+Oregon State University,53,4
+Oregon State University,54,4
+University of Victoria,55,4
+University of Victoria,56,4
+San Jose State University,57,3
+San Jose State University,58,3
+Hawaii Pacific University,59,3
+Hawaii Pacific University,60,3
+University of Washington Tacoma,61,3
+University of Washington Tacoma,62,3
+Oregon State University,63,3
+Oregon State University,64,3
+University of Washington,65,3
+University of Washington,66,3
+University of Portland,67,3
+University of Portland,68,3
+California State University - Chico,69,3
+California State University - Chico,70,3
+California State University - Chico,71,2
+California State University - Chico,72,2
+Lewis & Clark College,73,2
+Lewis & Clark College,74,2
+Pacific Lutheran University,75,2
+Pacific Lutheran University,76,2
+California State University - Chico,77,2
+California State University - Chico,78,2
+California State University - Sacramento,79,1
+California State University - Sacramento,80,1
+University of Idaho,81,1
+University of Idaho,82,1
+Whitworth University,83,1
+Whitworth University,84,1
+Seattle University,85,1
+Seattle University,86,1
+Brigham Young University - Hawaii,87,0
+Brigham Young University - Hawaii,88,0
+San Jose State University,89,0
+San Jose State University,90,0
+Stanford University,91,0
+Stanford University,92,0
+University of California, Berkeley,93,14
+University of California, Berkeley,94,14
+University of California, Berkeley,95,11
+University of California, Berkeley,96,11
+San Jose State University,97,9
+San Jose State University,98,9
+The University of British Columbia,99,9
+The University of British Columbia,100,9
+The University of British Columbia,101,8
+The University of British Columbia,102,8
+The University of British Columbia,103,8
+The University of British Columbia,104,8
+University of Washington,105,8
+University of Washington,106,8
+San Jose State University,107,7
+San Jose State University,108,7
+De Anza College,109,7
+De Anza College,110,7
+University of Washington,111,7
+University of Washington,112,7
+Oregon State University,113,7
+Oregon State University,114,7
+De Anza College,115,7
+De Anza College,116,7
+De Anza College,117,7
+De Anza College,118,7
+Oregon State University,119,7
+Oregon State University,120,7
+De Anza College,121,6
+De Anza College,122,6
+Oregon State University,123,6
+Oregon State University,124,6
+George Fox University,125,6
+George Fox University,126,6
+DigiPen Institute of Technology,127,6
+DigiPen Institute of Technology,128,6
+University Of British Columbia Okanagan,129,6
+University Of British Columbia Okanagan,130,6
+University of Victoria,131,6
+University of Victoria,132,6
+University of Victoria,133,6
+University of Victoria,134,6
+University of Victoria,135,6
+University of Victoria,136,6
+University of Hawaii - Hilo,137,5
+University of Hawaii - Hilo,138,5
+University of Puget Sound,139,5
+University of Puget Sound,140,5
+University of Washington Tacoma,141,5
+University of Washington Tacoma,142,5
+University of Washington Tacoma,143,5
+University of Washington Tacoma,144,5
+Simon Fraser University,145,5
+Simon Fraser University,146,5
+University of Hawaii - Hilo,147,5
+University of Hawaii - Hilo,148,5
+Seattle University,149,5
+Seattle University,150,5
+De Anza College,151,5
+De Anza College,152,5
+North Idaho College,153,5
+North Idaho College,154,5
+University Of British Columbia Okanagan,155,5
+University Of British Columbia Okanagan,156,5
+University of Portland,157,5
+University of Portland,158,5
+De Anza College,159,5
+De Anza College,160,5
+Pacific Lutheran University,161,5
+Pacific Lutheran University,162,5
+Pacific University,163,5
+Pacific University,164,5
+University of Portland,165,5
+University of Portland,166,5
+Brigham Young University - Hawaii,167,5
+Brigham Young University - Hawaii,168,5
+De Anza College,169,4
+De Anza College,170,4
+Simon Fraser University,171,4
+Simon Fraser University,172,4
+University of California, Berkeley,173,4
+University of California, Berkeley,174,4
+Hawaii Pacific University,175,3
+Hawaii Pacific University,176,3
+Hawaii Pacific University,177,3
+Hawaii Pacific University,178,3
+Pacific University,179,3
+Pacific University,180,3
+California State University - Chico,181,3
+California State University - Chico,182,3
+Seattle University,183,2
+Seattle University,184,2
+University of Washington Tacoma,185,2
+University of Washington Tacoma,186,2
+George Fox University,187,1
+George Fox University,188,1
+University of Portland,189,1
+University of Portland,190,1
+California State University - Chico,191,0
+University of Portland,192,0
+Pacific Lutheran University,193,0
+University of Washington Tacoma,194,0
+Brigham Young University - Hawaii,195,0
+Pacific Lutheran University,196,0
+Seattle University,197,0
+Brigham Young University - Hawaii,198,0
+University of Portland,199,0
+Brigham Young University - Hawaii,200,0
+Brigham Young University - Hawaii,201,0
+Seattle University,202,0
+Brigham Young University - Hawaii,203,0
+Brigham Young University - Hawaii,204,0
+Brigham Young University - Hawaii,205,0
+University of Washington Tacoma,206,0
+Brigham Young University - Hawaii,207,0
+California State University - Chico,208,0
+Brigham Young University - Hawaii,209,0
+Brigham Young University - Hawaii,210,0

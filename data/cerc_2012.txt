@@ -1,0 +1,77 @@
+Comenius University,1,10
+Jagiellonian University in Krakow,2,10
+University of Warsaw,3,9
+University of Warsaw,4,9
+University of Wroclaw,5,9
+Jagiellonian University in Krakow,6,8
+University of Warsaw,7,8
+University of Zagreb,8,8
+Jagiellonian University in Krakow,9,7
+University of Wroclaw,10,7
+University of Warsaw,11,7
+University of Wroclaw,12,7
+Jagiellonian University in Krakow,13,6
+Charles University in Prague,14,6
+Jagiellonian University in Krakow,15,6
+University of Zagreb,16,6
+Budapest University of Technology and Economics,17,6
+University of Wroclaw,18,6
+University of Zagreb,19,6
+University of Warsaw,20,6
+AGH University of Science and Technology,21,6
+University of Warsaw,22,6
+Eötvös Loránd University,23,6
+Poznan University of Technology,24,6
+Jagiellonian University in Krakow,25,6
+AGH University of Science and Technology,26,6
+University of Wroclaw,27,5
+Masaryk University,28,5
+Charles University in Prague,29,5
+Comenius University,30,5
+Budapest University of Technology and Economics,31,5
+Adam Mickiewicz University,32,5
+University of Ljubljana,33,4
+University of Ljubljana,34,4
+University of Wroclaw,35,4
+Adam Mickiewicz University,36,4
+Czech Technical University in Prague,37,4
+Eötvös Loránd University,38,3
+Matej Bel University in Banská Bystrica,39,3
+Budapest University of Technology and Economics,40,3
+Charles University in Prague,41,3
+Maria Curie-Skłodowska University,42,3
+Warsaw University of Technology,43,3
+Szczecin University of Technology,44,3
+University of Žilina,45,3
+Pavol Jozef Šafárik University in Košice,46,3
+Czech Technical University in Prague,47,2
+AGH University of Science and Technology,48,2
+University of Maribor,49,2
+University of West Bohemia in Pilsen,50,2
+University of Žilina,51,2
+Masaryk University,52,2
+Slovak University of Technology in Bratislava,53,2
+University of Debrecen,54,2
+University of Maribor,55,2
+Slovak University of Technology in Bratislava,56,2
+University of Ljubljana,57,2
+Nicolaus Copernicus University,58,2
+Poznan University of Technology,59,2
+Czech Technical University in Prague,60,2
+University of Szeged,61,2
+VŠB - Technical University of Ostrava,62,2
+University of Primorska,63,2
+Nicolaus Copernicus University,64,2
+Czech Technical University in Prague,65,2
+University of West Bohemia in Pilsen,66,1
+University of Debrecen,67,1
+University of West Bohemia in Pilsen,68,1
+University of West Bohemia in Pilsen,69,1
+Politechnika Opolska,70,1
+University of Szeged,71,1
+Wyższa Szkoła Biznesu - National-Louis University,72,1
+VŠB - Technical University of Ostrava,73,1
+Politechnika Opolska,74,1
+Politechnika Opolska,75,1
+Warsaw School of Computer Science,76,1
+Matej Bel University in Banská Bystrica,77,1

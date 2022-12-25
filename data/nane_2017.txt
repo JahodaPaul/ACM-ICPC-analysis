@@ -1,0 +1,17 @@
+Massachusetts Institute of Technology,1,9
+Harvard University,2,8
+McGill University,3,8
+University of Rochester,4,7
+Northeastern University,5,6
+University of Massachusetts - Amherst,6,4
+Dalhousie University,7,4
+University of New Brunswick at Fredericton,8,3
+Rochester Institute of Technology,9,3
+Mount Allison University,10,3
+Siena College,11,2
+Acadia University,12,2
+University of Connecticut,13,2
+Plymouth State University,14,2
+Boston College,15,2
+Hamilton College,16,2
+St. Lawrence University,17,1

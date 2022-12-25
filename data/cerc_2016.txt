@@ -1,0 +1,70 @@
+University of Warsaw,1,10
+University of Zagreb,2,9
+University of Warsaw,3,8
+University of Wroclaw,4,8
+Jagiellonian University in Krakow,5,8
+Jagiellonian University in Krakow,6,8
+University of Warsaw,7,8
+University of Warsaw,8,8
+University of Zagreb,9,7
+University of Wroclaw,10,7
+Comenius University,11,7
+Czech Technical University in Prague,12,7
+Charles University in Prague,13,7
+University of Zagreb,14,6
+University of Wroclaw,15,6
+Czech Technical University in Prague,16,6
+Poznan University of Technology,17,5
+Jagiellonian University in Krakow,18,5
+University of Zagreb,19,5
+University of Zagreb,20,5
+University of Zagreb,21,5
+AGH University of Science and Technology,22,5
+Jagiellonian University in Krakow,23,5
+Charles University in Prague,24,4
+Eötvös Loránd University,25,4
+Czech Technical University in Prague,26,4
+Czech Technical University in Prague,27,4
+University of Ljubljana,28,4
+University of Wroclaw,29,4
+Adam Mickiewicz University,30,4
+Masaryk University,31,4
+University of Primorska,32,4
+University of Szeged,33,4
+University of Ljubljana,34,3
+University of Zagreb,35,3
+Charles University in Prague,36,3
+Budapest University of Technology and Economics,37,3
+Eötvös Loránd University,38,3
+University of Ljubljana,39,3
+Comenius University,40,3
+University of Zagreb,41,3
+Masaryk University,42,3
+University of West Bohemia in Pilsen,43,3
+Czech Technical University in Prague,44,3
+Slovak University of Technology in Bratislava,45,3
+Budapest University of Technology and Economics,46,3
+University of Warsaw,47,2
+University of Žilina,48,2
+VŠB - Technical University of Ostrava,49,2
+University of Žilina,50,2
+University of RIjeka,51,2
+Czech Technical University in Prague,52,2
+University of West Bohemia in Pilsen,53,2
+Pavol Jozef Šafárik University in Košice,54,2
+University of Maribor,55,2
+Eötvös Loránd University,56,2
+University of Žilina,57,2
+University of Debrecen,58,2
+Josip Juraj Strossmayer University of Osijek,59,1
+University of Debrecen,60,1
+Pavol Jozef Šafárik University in Košice,61,1
+Slovak University of Technology in Bratislava,62,1
+Juraj Dobrila University of Pula,63,1
+University of Szeged,64,1
+Nicolaus Copernicus University,65,1
+University of Dubrovnik,66,0
+University of Szeged,67,0
+VŠB - Technical University of Ostrava,68,0
+Josip Juraj Strossmayer University of Osijek,69,0
+University of West Bohemia in Pilsen,70,0
