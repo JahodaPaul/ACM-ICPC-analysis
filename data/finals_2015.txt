@@ -1,384 +1,128 @@
 St. Petersburg ITMO University,1,13
-St. Petersburg ITMO University,2,13
-St. Petersburg ITMO University,3,13
-Moscow State University,4,11
-Moscow State University,5,11
-Moscow State University,6,11
-The University of Tokyo,7,11
-The University of Tokyo,8,11
-The University of Tokyo,9,11
-Tsinghua University,10,10
-Tsinghua University,11,10
-Tsinghua University,12,10
-Peking University,13,10
-Peking University,14,10
-Peking University,15,10
-University of California, Berkeley,16,10
-University of California, Berkeley,17,10
-University of California, Berkeley,18,10
-University of Zagreb,19,10
-University of Zagreb,20,10
-University of Zagreb,21,10
-Charles University in Prague,22,10
-Charles University in Prague,23,10
-Charles University in Prague,24,10
-Shanghai Jiao Tong University,25,10
-Shanghai Jiao Tong University,26,10
-Shanghai Jiao Tong University,27,10
-Massachusetts Institute of Technology,28,10
-Massachusetts Institute of Technology,29,10
-Massachusetts Institute of Technology,30,10
-Korea University,31,9
-Korea University,32,9
-Korea University,33,9
-University of Warsaw,34,9
-University of Warsaw,35,9
-University of Warsaw,36,9
-University of Waterloo,37,9
-University of Waterloo,38,9
-University of Waterloo,39,9
-University of Wroclaw,40,9
-University of Wroclaw,41,9
-University of Wroclaw,42,9
-Fudan University,43,8
-Fudan University,44,8
-Fudan University,45,8
-Lviv National University,46,8
-Lviv National University,47,8
-Lviv National University,48,8
-Jagiellonian University in Krakow,49,8
-Jagiellonian University in Krakow,50,8
-Jagiellonian University in Krakow,51,8
-Universidad de Buenos Aires - FCEN,52,8
-Universidad de Buenos Aires - FCEN,53,8
-Universidad de Buenos Aires - FCEN,54,8
-Harvard University,55,8
-Harvard University,56,8
-Harvard University,57,8
-University of Southern California,58,8
-University of Southern California,59,8
-University of Southern California,60,8
-Belarusian State University,61,8
-Belarusian State University,62,8
-Belarusian State University,63,8
-University of California, Los Angeles,64,8
-University of California, Los Angeles,65,8
-University of California, Los Angeles,66,8
-University of Electronic Science and Technology of China,67,8
-University of Electronic Science and Technology of China,68,8
-University of Electronic Science and Technology of China,69,8
-Carnegie Mellon University,70,8
-Carnegie Mellon University,71,8
-Carnegie Mellon University,72,8
-KAIST,73,8
-KAIST,74,8
-KAIST,75,8
-Sharif University of Technology,76,8
-Sharif University of Technology,77,8
-Sharif University of Technology,78,8
-Georgia Institute of Technology,79,8
-Georgia Institute of Technology,80,8
-Georgia Institute of Technology,81,8
-KTH - Royal Institute of Technology,82,7
-KTH - Royal Institute of Technology,83,7
-KTH - Royal Institute of Technology,84,7
-National Taiwan University,85,7
-National Taiwan University,86,7
-National Taiwan University,87,7
-Beihang University,88,7
-Beihang University,89,7
-Beihang University,90,7
-Shanghai University,91,7
-Shanghai University,92,7
-Shanghai University,93,7
-Kyoto University,94,7
-Kyoto University,95,7
-Kyoto University,96,7
-National University of Singapore,97,7
-National University of Singapore,98,7
-National University of Singapore,99,7
-Universidade de São Paulo,100,7
-Universidade de São Paulo,101,7
-Universidade de São Paulo,102,7
-Odessa National Mechnikov University,103,7
-Odessa National Mechnikov University,104,7
-Odessa National Mechnikov University,105,7
-University of Central Florida,106,7
-University of Central Florida,107,7
-University of Central Florida,108,7
-Universitat Politècnica de Catalunya,109,7
-Universitat Politècnica de Catalunya,110,7
-Universitat Politècnica de Catalunya,111,7
-Beijing Jiaotong University,112,7
-Beijing Jiaotong University,113,7
-Beijing Jiaotong University,114,7
-South China Agricultural University,115,7
-South China Agricultural University,116,7
-South China Agricultural University,117,7
-University of Tsukuba,118,7
-University of Tsukuba,119,7
-University of Tsukuba,120,7
-University of Bucharest,121,7
-University of Bucharest,122,7
-University of Bucharest,123,7
-National Research University Higher School of Economics,124,7
-National Research University Higher School of Economics,125,7
-National Research University Higher School of Economics,126,7
-Zhejiang SCI-TECH University,127,7
-Zhejiang SCI-TECH University,128,7
-Zhejiang SCI-TECH University,129,7
-Taras Shevchenko National University of Kyiv,130,7
-Taras Shevchenko National University of Kyiv,131,7
-Taras Shevchenko National University of Kyiv,132,7
-National University of Defense Technology,133,7
-National University of Defense Technology,134,7
-National University of Defense Technology,135,7
-St. Petersburg Academic University,136,7
-St. Petersburg Academic University,137,7
-St. Petersburg Academic University,138,7
-Moscow Institute of Physics and Technology,139,7
-Moscow Institute of Physics and Technology,140,7
-Moscow Institute of Physics and Technology,141,7
-Zhejiang University,142,7
-Zhejiang University,143,7
-Zhejiang University,144,7
-Hangzhou Dianzi University,145,7
-Hangzhou Dianzi University,146,7
-Hangzhou Dianzi University,147,7
-University of Michigan at Ann Arbor,148,7
-University of Michigan at Ann Arbor,149,7
-University of Michigan at Ann Arbor,150,7
-St. Petersburg State University,151,6
-St. Petersburg State University,152,6
-St. Petersburg State University,153,6
-Seoul National University,154,6
-Seoul National University,155,6
-Seoul National University,156,6
-Fuzhou University,157,6
-Fuzhou University,158,6
-Fuzhou University,159,6
-Shahjalal University of Science and Technology,160,6
-Shahjalal University of Science and Technology,161,6
-Shahjalal University of Science and Technology,162,6
-Saratov State University,163,6
-Saratov State University,164,6
-Saratov State University,165,6
-Nanyang Technological University,166,6
-Nanyang Technological University,167,6
-Nanyang Technological University,168,6
-UNSW Sydney,169,6
-UNSW Sydney,170,6
-UNSW Sydney,171,6
-Friedrich-Alexander-University Erlangen-Nuremberg,172,6
-Friedrich-Alexander-University Erlangen-Nuremberg,173,6
-Friedrich-Alexander-University Erlangen-Nuremberg,174,6
-Jahangirnagar University,175,6
-Jahangirnagar University,176,6
-Jahangirnagar University,177,6
-South China University of Technology,178,6
-South China University of Technology,179,6
-South China University of Technology,180,6
-Beijing Normal University,181,6
-Beijing Normal University,182,6
-Beijing Normal University,183,6
-University of Science and Technology of China,184,6
-University of Science and Technology of China,185,6
-University of Science and Technology of China,186,6
-University of Engineering and Technology - VNU,187,6
-University of Engineering and Technology - VNU,188,6
-University of Engineering and Technology - VNU,189,6
-University of Wisconsin-Madison,190,5
-University of Wisconsin-Madison,191,5
-University of Wisconsin-Madison,192,5
-Huazhong University of Science & Technology,193,5
-Huazhong University of Science & Technology,194,5
-Huazhong University of Science & Technology,195,5
-ETH Zürich,196,5
-ETH Zürich,197,5
-ETH Zürich,198,5
-Nazarbayev University,199,5
-Nazarbayev University,200,5
-Nazarbayev University,201,5
-Universidad Católica San Pablo,202,5
-Universidad Católica San Pablo,203,5
-Universidad Católica San Pablo,204,5
-Indian Institute of Technology - Roorkee,205,5
-Indian Institute of Technology - Roorkee,206,5
-Indian Institute of Technology - Roorkee,207,5
-Indian Institute of Technology - Bombay,208,5
-Indian Institute of Technology - Bombay,209,5
-Indian Institute of Technology - Bombay,210,5
-Stanford University,211,5
-Stanford University,212,5
-Stanford University,213,5
-Northwestern University,214,5
-Northwestern University,215,5
-Northwestern University,216,5
-University of Maryland,217,5
-University of Maryland,218,5
-University of Maryland,219,5
-Jilin University,220,5
-Jilin University,221,5
-Jilin University,222,5
-The American University in Cairo,223,5
-The American University in Cairo,224,5
-The American University in Cairo,225,5
-University of Copenhagen,226,5
-University of Copenhagen,227,5
-University of Copenhagen,228,5
-Princeton University,229,4
-Princeton University,230,4
-Princeton University,231,4
-The Australian National University,232,4
-The Australian National University,233,4
-The Australian National University,234,4
-Universitas Indonesia,235,4
-Universitas Indonesia,236,4
-Universitas Indonesia,237,4
-Beijing Institute of Technology,238,4
-Beijing Institute of Technology,239,4
-Beijing Institute of Technology,240,4
-Universidade Estadual de Campinas,241,4
-Universidade Estadual de Campinas,242,4
-Universidade Estadual de Campinas,243,4
-Kazan (Volga Region) Federal University,244,4
-Kazan (Volga Region) Federal University,245,4
-Kazan (Volga Region) Federal University,246,4
-University of Cape Town,247,4
-University of Cape Town,248,4
-University of Cape Town,249,4
-Free University of Tbilisi,250,4
-Free University of Tbilisi,251,4
-Free University of Tbilisi,252,4
-Universidad Nacional de Colombia - Bogotá,253,4
-Universidad Nacional de Colombia - Bogotá,254,4
-Universidad Nacional de Colombia - Bogotá,255,4
-International Institute of Information Technology - Hyderabad,256,4
-International Institute of Information Technology - Hyderabad,257,4
-International Institute of Information Technology - Hyderabad,258,4
-Facultad de Ciencias Exactas-Universidad Nacional de Rosario,259,4
-Facultad de Ciencias Exactas-Universidad Nacional de Rosario,260,4
-Facultad de Ciencias Exactas-Universidad Nacional de Rosario,261,4
-University of Illinois at Urbana-Champaign,262,4
-University of Illinois at Urbana-Champaign,263,4
-University of Illinois at Urbana-Champaign,264,4
-Belarusian State Economic University,265,4
-Belarusian State Economic University,266,4
-Belarusian State Economic University,267,4
-University of Tehran,268,4
-University of Tehran,269,4
-University of Tehran,270,4
-Indian Institute of Technology - Madras,271,4
-Indian Institute of Technology - Madras,272,4
-Indian Institute of Technology - Madras,273,4
-Virginia Tech,274,4
-Virginia Tech,275,4
-Virginia Tech,276,4
-Indian Institute of Technology - Kharagpur,277,4
-Indian Institute of Technology - Kharagpur,278,4
-Indian Institute of Technology - Kharagpur,279,4
-Belarusian State University of Informatics and Radioelectronics,280,4
-Belarusian State University of Informatics and Radioelectronics,281,4
-Belarusian State University of Informatics and Radioelectronics,282,4
-The University of Western Australia,283,4
-The University of Western Australia,284,4
-The University of Western Australia,285,4
-Escuela Superior De Computo Instituto Politecnico Nacional,286,3
-Escuela Superior De Computo Instituto Politecnico Nacional,287,3
-Escuela Superior De Computo Instituto Politecnico Nacional,288,3
-The University of Chicago,289,3
-The University of Chicago,290,3
-The University of Chicago,291,3
-Universidad de los Andes, Colombia,292,3
-Universidad de los Andes, Colombia,293,3
-Universidad de los Andes, Colombia,294,3
-Universidad Simón Bolívar,295,3
-Universidad Simón Bolívar,296,3
-Universidad Simón Bolívar,297,3
-Cornell University,298,3
-Cornell University,299,3
-Cornell University,300,3
-Ain Shams University - Faculty of Engineering,301,3
-Ain Shams University - Faculty of Engineering,302,3
-Ain Shams University - Faculty of Engineering,303,3
-Universidad de Oriente - Sede Antonio Maceo,304,3
-Universidad de Oriente - Sede Antonio Maceo,305,3
-Universidad de Oriente - Sede Antonio Maceo,306,3
-Moscow Aviation Institute,307,3
-Moscow Aviation Institute,308,3
-Moscow Aviation Institute,309,3
-Iowa State University,310,3
-Iowa State University,311,3
-Iowa State University,312,3
-Federal University of Minas Gerais,313,3
-Federal University of Minas Gerais,314,3
-Federal University of Minas Gerais,315,3
-University of Minnesota - Twin Cities,316,3
-University of Minnesota - Twin Cities,317,3
-University of Minnesota - Twin Cities,318,3
-German University in Cairo,319,3
-German University in Cairo,320,3
-German University in Cairo,321,3
-Universidad de La Habana,322,3
-Universidad de La Habana,323,3
-Universidad de La Habana,324,3
-Cairo University - Faculty of Computers and Artificial Intelligence,325,3
-Cairo University - Faculty of Computers and Artificial Intelligence,326,3
-Cairo University - Faculty of Computers and Artificial Intelligence,327,3
-Arab Academy for Science and Technology - Alexandria,328,2
-Arab Academy for Science and Technology - Alexandria,329,2
-Arab Academy for Science and Technology - Alexandria,330,2
-University of Calgary,331,2
-University of Calgary,332,2
-University of Calgary,333,2
-Indian Institute of Technology - Delhi,334,2
-Indian Institute of Technology - Delhi,335,2
-Indian Institute of Technology - Delhi,336,2
-Universidad Autónoma de Aguascalientes,337,2
-Universidad Autónoma de Aguascalientes,338,2
-Universidad Autónoma de Aguascalientes,339,2
-Rice University,340,2
-Rice University,341,2
-Rice University,342,2
-National University of Science and Technology "MISiS",343,2
-National University of Science and Technology "MISiS",344,2
-National University of Science and Technology "MISiS",345,2
-Yazd University,346,2
-Yazd University,347,2
-Yazd University,348,2
-Messiah College,349,2
-Messiah College,350,2
-Messiah College,351,2
-Amrita School of Engineering, Kollam,352,2
-Amrita School of Engineering, Kollam,353,2
-Amrita School of Engineering, Kollam,354,2
-Universidade Federal de Campina Grande,355,2
-Universidade Federal de Campina Grande,356,2
-Universidade Federal de Campina Grande,357,2
-Universidad Privada de Santa Cruz de la Sierra,358,2
-Universidad Privada de Santa Cruz de la Sierra,359,2
-Universidad Privada de Santa Cruz de la Sierra,360,2
-Tishreen University,361,1
-Tishreen University,362,1
-Tishreen University,363,1
-Al Akhawayn University,364,1
-Al Akhawayn University,365,1
-Al Akhawayn University,366,1
-Universidade Federal do Rio de Janeiro,367,1
-Universidade Federal do Rio de Janeiro,368,1
-Universidade Federal do Rio de Janeiro,369,1
-Shahid Beheshti University,370,1
-Shahid Beheshti University,371,1
-Shahid Beheshti University,372,1
-ITESM Campus Monterrey,373,1
-ITESM Campus Monterrey,374,1
-ITESM Campus Monterrey,375,1
-Ain Shams University - Faculty of Computer and Information Sciences,376,1
-Ain Shams University - Faculty of Computer and Information Sciences,377,1
-Ain Shams University - Faculty of Computer and Information Sciences,378,1
-Carleton College,379,1
-Carleton College,380,1
-Carleton College,381,1
-ENSA Marrakech, UCA,382,1
-ENSA Marrakech, UCA,383,1
-ENSA Marrakech, UCA,384,1
+Moscow State University,2,11
+The University of Tokyo,3,11
+Tsinghua University,4,10
+Peking University,5,10
+University of California, Berkeley,6,10
+University of Zagreb,7,10
+Charles University in Prague,8,10
+Shanghai Jiao Tong University,9,10
+Massachusetts Institute of Technology,10,10
+Korea University,11,9
+University of Warsaw,12,9
+University of Waterloo,13,9
+University of Wroclaw,14,9
+Fudan University,15,8
+Lviv National University,16,8
+Jagiellonian University in Krakow,17,8
+Universidad de Buenos Aires - FCEN,18,8
+Harvard University,19,8
+University of Southern California,20,8
+Belarusian State University,21,8
+University of California, Los Angeles,22,8
+University of Electronic Science and Technology of China,23,8
+Carnegie Mellon University,24,8
+KAIST,25,8
+Sharif University of Technology,26,8
+Georgia Institute of Technology,27,8
+KTH - Royal Institute of Technology,28,7
+National Taiwan University,29,7
+Beihang University,30,7
+Shanghai University,31,7
+Kyoto University,32,7
+National University of Singapore,33,7
+Universidade de São Paulo,34,7
+Odessa National Mechnikov University,35,7
+University of Central Florida,36,7
+Universitat Politècnica de Catalunya,37,7
+Beijing Jiaotong University,38,7
+South China Agricultural University,39,7
+University of Tsukuba,40,7
+University of Bucharest,41,7
+National Research University Higher School of Economics,42,7
+Zhejiang SCI-TECH University,43,7
+Taras Shevchenko National University of Kyiv,44,7
+National University of Defense Technology,45,7
+St. Petersburg Academic University,46,7
+Moscow Institute of Physics and Technology,47,7
+Zhejiang University,48,7
+Hangzhou Dianzi University,49,7
+University of Michigan at Ann Arbor,50,7
+St. Petersburg State University,51,6
+Seoul National University,52,6
+Fuzhou University,53,6
+Shahjalal University of Science and Technology,54,6
+Saratov State University,55,6
+Nanyang Technological University,56,6
+UNSW Sydney,57,6
+Friedrich-Alexander-University Erlangen-Nuremberg,58,6
+Jahangirnagar University,59,6
+South China University of Technology,60,6
+Beijing Normal University,61,6
+University of Science and Technology of China,62,6
+University of Engineering and Technology - VNU,63,6
+University of Wisconsin-Madison,64,5
+Huazhong University of Science & Technology,65,5
+ETH Zürich,66,5
+Nazarbayev University,67,5
+Universidad Católica San Pablo,68,5
+Indian Institute of Technology - Roorkee,69,5
+Indian Institute of Technology - Bombay,70,5
+Stanford University,71,5
+Northwestern University,72,5
+University of Maryland,73,5
+Jilin University,74,5
+The American University in Cairo,75,5
+University of Copenhagen,76,5
+Princeton University,77,4
+The Australian National University,78,4
+Universitas Indonesia,79,4
+Beijing Institute of Technology,80,4
+Universidade Estadual de Campinas,81,4
+Kazan (Volga Region) Federal University,82,4
+University of Cape Town,83,4
+Free University of Tbilisi,84,4
+Universidad Nacional de Colombia - Bogotá,85,4
+International Institute of Information Technology - Hyderabad,86,4
+Facultad de Ciencias Exactas-Universidad Nacional de Rosario,87,4
+University of Illinois at Urbana-Champaign,88,4
+Belarusian State Economic University,89,4
+University of Tehran,90,4
+Indian Institute of Technology - Madras,91,4
+Virginia Tech,92,4
+Indian Institute of Technology - Kharagpur,93,4
+Belarusian State University of Informatics and Radioelectronics,94,4
+The University of Western Australia,95,4
+Escuela Superior De Computo Instituto Politecnico Nacional,96,3
+The University of Chicago,97,3
+Universidad de los Andes, Colombia,98,3
+Universidad Simón Bolívar,99,3
+Cornell University,100,3
+Ain Shams University - Faculty of Engineering,101,3
+Universidad de Oriente - Sede Antonio Maceo,102,3
+Moscow Aviation Institute,103,3
+Iowa State University,104,3
+Federal University of Minas Gerais,105,3
+University of Minnesota - Twin Cities,106,3
+German University in Cairo,107,3
+Universidad de La Habana,108,3
+Cairo University - Faculty of Computers and Artificial Intelligence,109,3
+Arab Academy for Science and Technology - Alexandria,110,2
+University of Calgary,111,2
+Indian Institute of Technology - Delhi,112,2
+Universidad Autónoma de Aguascalientes,113,2
+Rice University,114,2
+National University of Science and Technology "MISiS",115,2
+Yazd University,116,2
+Messiah College,117,2
+Amrita School of Engineering, Kollam,118,2
+Universidade Federal de Campina Grande,119,2
+Universidad Privada de Santa Cruz de la Sierra,120,2
+Tishreen University,121,1
+Al Akhawayn University,122,1
+Universidade Federal do Rio de Janeiro,123,1
+Shahid Beheshti University,124,1
+ITESM Campus Monterrey,125,1
+Ain Shams University - Faculty of Computer and Information Sciences,126,1
+Carleton College,127,1
+ENSA Marrakech, UCA,128,1
